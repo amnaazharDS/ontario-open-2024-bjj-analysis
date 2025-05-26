@@ -46,6 +46,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+```
 
 📊 Key Insights
 Most matches end via points (not submissions)
