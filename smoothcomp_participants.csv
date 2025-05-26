@@ -1,0 +1,938 @@
+First Name,Last Name,Age,Birth Year,Gender,Country,Club,Affiliation,Bracket
+Damon,Ball,16.0,2008,M,Canada,Paradigm Martial Arts,Renzo Gracie Ottawa,Juvenile Boys Gi / White / -118 lbs
+Lincoln,Donaldson,16.0,2008,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Juvenile Boys Gi / White / -118 lbs
+Noah,Hingco,18.0,2007,M,Canada,Pound4Pound - Resolute Jiu-Jitsu,Body of Four Team,Juvenile Boys Gi / White / -118 lbs
+Caden,Parker,16.0,2008,M,Canada,Big Country MMA,,Juvenile Boys Gi / White / -118 lbs
+Iker,Arellano Gomesainz,16.0,2008,M,Mexico,Octa BJJ,,Juvenile Boys Gi / White / -118 lbs
+Zack,MacDonald,17.0,2007,M,Canada,Trillium MMA,Body of Four Team,Juvenile Boys Gi / White / -129 lbs
+Manuel,Ranillo III,17.0,2007,M,Canada,House of Combat,TROPA DE ELITE,Juvenile Boys Gi / White / -129 lbs
+Abdiel,Duran,16.0,2008,M,Canada,Paradigm Martial Arts,Renzo Gracie Ottawa,Juvenile Boys Gi / White / -129 lbs
+Riley,Frame,17.0,2007,M,Canada,Octa BJJ,GFTeam,Juvenile Boys Gi / White / -129 lbs
+Juan,Rios,17.0,2007,M,Venezuela,Octa BJJ,,Juvenile Boys Gi / White / -129 lbs
+Thomas,Liamakeros,17.0,2007,M,Canada,The Flock MMA Academy,Carlson Gracie Team,"Juvenile Boys Gi / White / -141,6 lbs"
+Alexandro,Quelal,17.0,2007,M,Canada,KINGJIUJITSU,TROPA DE ELITE,"Juvenile Boys Gi / White / -141,6 lbs"
+Andrew,Romundt,16.0,2008,M,Canada,Santos Brothers BJJ,Nova União,"Juvenile Boys Gi / White / -141,6 lbs"
+Nithishvar,prathipan,17.0,2007,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,"Juvenile Boys Gi / White / -141,6 lbs"
+Sky,Souza,16.0,2008,M,Canada,Cavalo Martial Arts Academy,,"Juvenile Boys Gi / White / -141,6 lbs"
+Liam,Bell,17.0,2007,M,Canada,United Brazilian Jiu Jitsu,,"Juvenile Boys Gi / White / -141,6 lbs"
+Domenic,Short,16.0,2008,M,Canada,Gracie Humaita Bolton,Gracie Humaita,"Juvenile Boys Gi / White / -141,6 lbs"
+Aidan,Umali,17.0,2008,M,Canada,Team DNA,Jiu-Jitsu For Life Team,"Juvenile Boys Gi / White / -152,6 lbs"
+Matthew,Tolstikov,17.0,2008,M,Canada,Ottawa Academy of Martial Arts,Renzo Gracie Ottawa,"Juvenile Boys Gi / White / -152,6 lbs"
+Krishen,Parhar,18.0,2007,M,Canada,Higher Wave Jiu Jitsu,Cicero Costha Canada,"Juvenile Boys Gi / White / -152,6 lbs"
+David,Zilbert,16.0,2008,M,Ukraine,The Flock MMA Academy,Carlson Gracie Team,"Juvenile Boys Gi / White / -152,6 lbs"
+Sean,Balsdon,17.0,2007,M,Canada,Action & Reaction MMA,Cicero Costha Canada,"Juvenile Boys Gi / White / -163,6 lbs"
+Spencer,Aves,17.0,2007,M,Canada,Rumble Martial Arts,,"Juvenile Boys Gi / White / -163,6 lbs"
+Gatlin,Reilly,17.0,2007,M,Canada,Ape Jiu Jitsu,Cicero Costha Canada,"Juvenile Boys Gi / White / -163,6 lbs"
+owen,Durant,16.0,2008,M,Canada,Limitless Brazilian Jiujitsu,,"Juvenile Boys Gi / White / -163,6 lbs"
+Jacob,Sverdlin,17.0,2007,M,Canada,Vaughan Jiu-Jitsu Academy,Body of Four Team,"Juvenile Boys Gi / White / -163,6 lbs"
+Juan,Gallego Parra,16.0,2008,M,Colombia,KINGJIUJITSU,TROPA DE ELITE,"Juvenile Boys Gi / White / -163,6 lbs"
+Iskender,Kim,16.0,2008,M,Kyrgyzstan,Action & Reaction MMA,Cicero Costha Canada,Juvenile Boys Gi / White / -175 lbs
+Nate,Sloss,17.0,2008,M,Canada,Team Renzo Gracie Ottawa,,Juvenile Boys Gi / White / -175 lbs
+Danylo,Kaniovskyi,16.0,2008,M,Ukraine,The Flock MMA Academy,Carlson Gracie Team,Juvenile Boys Gi / White / -175 lbs
+Jericho,Untalasco,16.0,2008,M,Canada,Limitless Brazilian Jiujitsu,,Juvenile Boys Gi / White / -175 lbs
+Olivier,Charron,16.0,2008,M,Canada,Evolution BJJ HQ - Gatineau,Evolution Brazilian Jiu-Jitsu,Juvenile Boys Gi / White / -175 lbs
+Elon,Izenberg,16.0,2008,M,Canada,Grapple Lab BJJ,Nova União,Juvenile Boys Gi / White / -175 lbs
+Ethan,Guichelaar,17.0,2007,M,Canada,Kilian Academy,Roy Dean International,Juvenile Boys Gi / White / -175 lbs
+Eric,Tomlin,17.0,2007,M,Canada,Gracie Humaita Bolton,Gracie Humaita,Juvenile Boys Gi / White / -175 lbs
+Dylan,Feiner,17.0,2008,M,Canada,Cavalo Martial Arts Academy,,Juvenile Boys Gi / White / -186 lbs
+Kai,Chor,16.0,2008,M,Canada,Kalsamrit Martial Arts,Cicero Costha Canada,Juvenile Boys Gi / White / -186 lbs
+BRENDON,CONNERS,17.0,2007,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Juvenile Boys Gi / White / -186 lbs
+Ronaq,Pawar,17.0,2007,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Juvenile Boys Gi / White / -186 lbs
+Jacob,Ramoutar,17.0,2008,M,Canada,York Judo &  BJJ,Cicero Costha Canada,Juvenile Boys Gi / Blue / -129 lbs
+Conner,Afable,18.0,2007,M,Philippines,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Juvenile Boys Gi / Blue / -129 lbs
+Yannick,Fortin,17.0,2007,M,Canada,Octa BJJ,GFTeam,Juvenile Boys Gi / Blue / -129 lbs
+Noah,Dinola,16.0,2008,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Juvenile Boys Gi / Blue / -129 lbs
+Waylon,Roote,16.0,2008,M,Canada,TOPP Performance,SBACANADA,Juvenile Boys Gi / Blue / -129 lbs
+Ertegin,Kadyrov,16.0,2008,M,Kyrgyzstan,MILE END JIU JITSU CLUB,,"Juvenile Boys Gi / Blue / -141,6 lbs"
+Serop,Chavez,17.0,2007,M,Canada,Action & Reaction MMA,Cicero Costha Canada,"Juvenile Boys Gi / Blue / -141,6 lbs"
+Quentin,Teruel,16.0,2008,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,"Juvenile Boys Gi / Blue / -141,6 lbs"
+Cailan,de Leon,17.0,2007,M,Canada,NKS Brazilian Jiu Jitsu,Cicero Costha Canada,"Juvenile Boys Gi / Blue / -141,6 lbs"
+Zachary,Houle,16.0,2008,M,Canada,Evolution BJJ HQ - Gatineau,Evolution Brazilian Jiu-Jitsu,"Juvenile Boys Gi / Blue / -141,6 lbs"
+Logan,Brunzell,18.0,2007,M,Canada,Gracie Barra Ottawa East,Gracie Barra,"Juvenile Boys Gi / Blue / -141,6 lbs"
+Nikolas,Charette,16.0,2008,M,Canada,Thompson Jiu Jitsu,,"Juvenile Boys Gi / Blue / -152,6 lbs"
+Ethan,Wong,17.0,2007,M,Canada,Action & Reaction MMA,Cicero Costha Canada,"Juvenile Boys Gi / Blue / -152,6 lbs"
+ALEXANDER,SOLTES,17.0,2007,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,"Juvenile Boys Gi / Blue / -152,6 lbs"
+Quintin,Moore,17.0,2007,M,Canada,Revelation Martial Arts and Fitness,Renzo Gracie Ottawa,"Juvenile Boys Gi / Blue / -152,6 lbs"
+Lucas,English,17.0,2007,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,"Juvenile Boys Gi / Blue / -152,6 lbs"
+Rowen,Russell,16.0,2008,M,Canada,Oshawa BJJ and Fitness,Jiu-Jitsu For Life Team,"Juvenile Boys Gi / Blue / -152,6 lbs"
+Brian,Timmons,17.0,2007,M,Canada,Gracie Barra Ott,Gracie Barra,"Juvenile Boys Gi / Blue / -152,6 lbs"
+Thomas,Paquette,16.0,2008,M,Canada,Gracie Barra Laval,Gracie Barra,"Juvenile Boys Gi / Blue / -152,6 lbs"
+Samuel,Hood,18.0,2007,M,Canada,Kemptville Academy of Martial Arts,Renzo Gracie Ottawa,"Juvenile Boys Gi / Blue / -163,6 lbs"
+Kean,Olah,17.0,2007,M,Canada,Markham BJJ,,"Juvenile Boys Gi / Blue / -163,6 lbs"
+Jedrek,Thistle,17.0,2007,M,Canada,Therien - Gringo Bjj,Cicero Costha Canada,"Juvenile Boys Gi / Blue / -163,6 lbs"
+Justin,Swaminadhan,17.0,2007,M,Canada,Team ONE Jiu-Jitsu Canada HQ,Team ONE Jiu-Jitsu Canada,"Juvenile Boys Gi / Blue / -163,6 lbs"
+Evan,Esau,16.0,2008,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,"Juvenile Boys Gi / Blue / -163,6 lbs"
+David,Glazenberg,17.0,2007,M,Canada,Vaughan Jiu-Jitsu Academy,Body of Four Team,Juvenile Boys Gi / Blue / -175 lbs
+Jack,Martin,16.0,2008,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Juvenile Boys Gi / Blue / -175 lbs
+Brayden,Birr,16.0,2008,M,Canada,Four-Eleven Brazilian Jiu Jitsu,Cicero Costha Canada,Juvenile Boys Gi / Blue / -175 lbs
+Burton,Bronkhorst,17.0,2007,M,Canada,TOPP Performance,SBACANADA,Juvenile Boys Gi / Blue / -175 lbs
+David,Shklyarman,17.0,2007,M,Canada,Vaughan Jiu-Jitsu Academy,Body of Four Team,Juvenile Boys Gi / Blue / -175 lbs
+Carson,Attwood,17.0,2007,M,Canada,YGK - BO4 Kingston,Body of Four Team,Juvenile Boys Gi / Blue / -186 lbs
+Maulood,Ahmad,16.0,2008,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Juvenile Boys Gi / Blue / -186 lbs
+Bernardo,Marcelino,16.0,2008,M,Brazil,Toronto BJJ,Jiu-Jitsu For Life Team,Juvenile Boys Gi / Blue / -186 lbs
+Zayne,Libarian,17.0,2007,M,Canada,Cavalo Martial Arts Academy,,Juvenile Boys Gi / Blue / -186 lbs
+Carter,St Jean,16.0,2008,M,Canada,Gorilla Dojo Kirkland Lake,Body of Four Team,Juvenile Boys Gi / Blue / -197 lbs
+Omid,Mesgarlou,17.0,2007,M,Canada,Team Renzo Gracie Ottawa,,Juvenile Boys Gi / Blue / -197 lbs
+Hudson,Bartel,16.0,2008,M,Canada,Ape Jiu Jitsu,Cicero Costha Canada,Juvenile Boys Gi / Blue / -197 lbs
+Carter,St Jean,16.0,2008,M,Canada,Gorilla Dojo Kirkland Lake,Body of Four Team,Juvenile Boys Gi / Blue / Open Weight
+Serop,Chavez,17.0,2007,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Juvenile Boys Gi / Blue / Open Weight
+Ethan,Wong,17.0,2007,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Juvenile Boys Gi / Blue / Open Weight
+Hudson,Bartel,16.0,2008,M,Canada,Ape Jiu Jitsu,Cicero Costha Canada,Juvenile Boys Gi / Blue / Open Weight
+Maulood,Ahmad,16.0,2008,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Juvenile Boys Gi / Blue / Open Weight
+Valerhy,Zerpa,18.0,2007,F,Venezuela,Thompson Jiu Jitsu,,Juvenile Girls Gi / White / -125 lbs
+Irelyn,Murray,17.0,2007,F,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Juvenile Girls Gi / White / -125 lbs
+Simona,Georgieva,16.0,2008,F,Canada,House of Combat,TROPA DE ELITE,"Juvenile Girls Gi / White / -133,6 lbs"
+Christina,Yefimova,16.0,2008,F,Ukraine,Gracie Barra North York Toronto,Gracie Barra,"Juvenile Girls Gi / White / -133,6 lbs"
+Kendra,Young,16.0,2008,F,Canada,GUVNA BJJ,Cicero Costha Canada,"Juvenile Girls Gi / Blue / -106,6 lbs"
+Isabelle,Armstrong,16.0,2008,F,Canada,Armstrong Academy of Martial Arts,GFTeam,"Juvenile Girls Gi / Blue / -106,6 lbs"
+Alexia,Fiaes,17.0,2007,F,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,"Juvenile Girls Gi / Blue / -106,6 lbs"
+Franchesca Izabel,Victoria,17.0,2008,F,Philippines,Toronto BJJ,Jiu-Jitsu For Life Team,Juvenile Girls Gi / Blue / -125 lbs
+Haevyn,Bole,16.0,2008,F,Canada,The Submission Academy,Renzo Gracie Ottawa,Juvenile Girls Gi / Blue / -125 lbs
+Flynn,Johnson,17.0,2007,F,Canada,Four-Eleven Brazilian Jiu Jitsu,Cicero Costha Canada,Juvenile Girls Gi / Blue / -125 lbs
+Elanor,Gorgati Guidoreni,16.0,2008,F,Brazil,Octa BJJ,GFTeam,Juvenile Girls Gi / Blue / -125 lbs
+Justus,Johnson,16.0,2008,F,Canada,Kubo Jiujitsu,,"Juvenile Girls Gi / Blue / -133,6 lbs"
+Celine,De Freitas,17.0,2007,F,Brazil,Toronto BJJ,Jiu-Jitsu For Life Team,"Juvenile Girls Gi / Blue / -133,6 lbs"
+Alia,Pickett,18.0,2007,F,Canada,Action & Reaction MMA,Cicero Costha Canada,"Juvenile Girls Gi / Blue / -133,6 lbs"
+Sophie,Turcotte,17.0,2007,F,Canada,Thompson Jiu Jitsu,,"Juvenile Girls Gi / Blue / -133,6 lbs"
+XIAO YING,MA,17.0,2008,F,Brazil,Action & Reaction MMA,Cicero Costha Canada,"Juvenile Girls Gi / Blue / -133,6 lbs"
+Steph,Chau,17.0,2008,F,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,"Juvenile Girls Gi / Blue / -133,6 lbs"
+Praachi,Sabharwal,16.0,2008,F,Canada,Four-Eleven Brazilian Jiu Jitsu,Cicero Costha Canada,Juvenile Girls Gi / Blue / -152 lbs
+Lise,Tanguay,16.0,2008,F,Canada,Grounded Studios,,Juvenile Girls Gi / Blue / -152 lbs
+Lilith,Day,16.0,2008,F,Canada,Octa BJJ,,Juvenile Girls Gi / Blue / -152 lbs
+Lillian,Yap,17.0,2007,F,Canada,Pound4Pound - Resolute Jiu-Jitsu,Body of Four Team,Juvenile Girls Gi / Blue / -152 lbs
+Alyssa,Pistritto,16.0,2008,F,Canada,Kalsamrit Martial Arts,Cicero Costha Canada,Juvenile Girls Gi / Blue / +152 lbs
+Abbigale,Friesen,16.0,2008,F,Canada,Grounded Studios,,Juvenile Girls Gi / Blue / +152 lbs
+SeoungRi,Lee,16.0,2008,F,Canada,Octa BJJ,,Juvenile Girls Gi / Blue / +152 lbs
+Lillian,Yap,17.0,2007,F,Canada,Pound4Pound - Resolute Jiu-Jitsu,Body of Four Team,Juvenile Girls Gi / Blue / Open weight
+Praachi,Sabharwal,16.0,2008,F,Canada,Four-Eleven Brazilian Jiu Jitsu,Cicero Costha Canada,Juvenile Girls Gi / Blue / Open weight
+Abbigale,Friesen,16.0,2008,F,Canada,Grounded Studios,,Juvenile Girls Gi / Blue / Open weight
+Lise,Tanguay,16.0,2008,F,Canada,Grounded Studios,,Juvenile Girls Gi / Blue / Open weight
+Justus,Johnson,16.0,2008,F,Canada,Kubo Jiujitsu,,Juvenile Girls Gi / Blue / Open weight
+XIAO YING,MA,17.0,2008,F,Brazil,Action & Reaction MMA,Cicero Costha Canada,Juvenile Girls Gi / Blue / Open weight
+Isabelle,Armstrong,16.0,2008,F,Canada,Armstrong Academy of Martial Arts,GFTeam,Juvenile Girls Gi / Blue / Open weight
+Devyn,Boricic,26.0,1998,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Adult / White / Light Feather
+Myles,Dan,27.0,1997,M,Canada,House of Combat,TROPA DE ELITE,Male Gi / Adult / White / Light Feather
+Edward,Leung,29.0,1995,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Adult / White / Light Feather
+Holden,Charles,25.0,1999,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Adult / White / Light Feather
+Eugene,Wong,29.0,1996,M,Canada,Huron BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / White / Light Feather
+Adrian Joey,Mongillo,26.0,1998,M,Canada,York Judo &  BJJ,Cicero Costha Canada,Male Gi / Adult / White / Light Feather
+Brandon,Barletta,21.0,2004,M,Panama,Team Renzo Gracie Ottawa,,Male Gi / Adult / White / Light Feather
+Matthew,Malatag,30.0,1994,M,Philippines,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Adult / White / Light Feather
+Sebastian,Ravera,21.0,2004,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / White / Light Feather
+Aharon,Goldberger,29.0,1995,M,Canada,House of Combat,,Male Gi / Adult / White / Feather
+Tristan,Gibeau,18.0,2006,M,Canada,Lopes BJJ,,Male Gi / Adult / White / Feather
+Luke,Grover,25.0,1999,M,Canada,Octa BJJ,GFTeam,Male Gi / Adult / White / Feather
+Savas,Liamakeros,19.0,2005,M,Canada,The Flock MMA Academy,Carlson Gracie Team,Male Gi / Adult / White / Feather
+Mason,Bell,27.0,1997,M,Canada,MN BJJ Academy,R1ngBJJ,Male Gi / Adult / White / Feather
+Muhammad,Bonse,28.0,1996,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Adult / White / Feather
+Noal,Roberts,19.0,2005,M,Canada,TROPA DE ELITE BJJ,TROPA DE ELITE,Male Gi / Adult / White / Feather
+Jeremiah,Untalasco,18.0,2006,M,Canada,Limitless Brazilian Jiujitsu,,Male Gi / Adult / White / Feather
+Seth,Langer,18.0,2006,M,Canada,Soul MMA,Cicero Costha Canada,Male Gi / Adult / White / Feather
+Bek,Kaliyev,24.0,2001,M,Kazakhstan,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Adult / White / Feather
+Nicholas,Leblanc,27.0,1997,M,Canada,Huron BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / White / Feather
+Victor,Micha,22.0,2002,M,France,CARLSON GRACIE MONTREAL,,Male Gi / Adult / White / Feather
+Ryan,Tomlin,20.0,2004,M,Canada,Gracie Humaita Bolton,Gracie Humaita,Male Gi / Adult / White / Feather
+Samuel,Pugliese,26.0,1999,M,Canada,Infinum BJJ,,Male Gi / Adult / White / Feather
+Ryan,Fagan,19.0,2005,M,Canada,Octa BJJ,,Male Gi / Adult / White / Feather
+Evan,Jutras,21.0,2004,M,Canada,NKS Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / White / Feather
+Andy,Dai,25.0,1999,M,China,SHANGHAI BJJ,,Male Gi / Adult / White / Feather
+Ali,Ehsan,19.0,2005,M,Pakistan,Gracie Barra North York Toronto,Gracie Barra,Male Gi / Adult / White / Feather
+Owen,Sullivan,20.0,2004,M,Canada,GUVNA BJJ,Cicero Costha Canada,Male Gi / Adult / White / Light
+Shree Suhas,Bhargav,18.0,2006,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / White / Light
+Mitchell,Willemsen,23.0,2001,M,Canada,Revelation Martial Arts and Fitness,Renzo Gracie Ottawa,Male Gi / Adult / White / Light
+Michael,Orrett,23.0,2001,M,Canada,Octa BJJ,GFTeam,Male Gi / Adult / White / Light
+Maximus,Akinnuoye,19.0,2005,M,Canada,The Flock MMA Academy,Carlson Gracie Team,Male Gi / Adult / White / Light
+Mehdi,Jabri,27.0,1997,M,Canada,5th Dimension Training Academy,Zenith,Male Gi / Adult / White / Light
+Tuby,Zong,23.0,2001,M,Canada,OpenMat mma,OpenMat,Male Gi / Adult / White / Light
+Matteo,Larocca,20.0,2004,M,Canada,NKS Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / White / Light
+James,Pansino,25.0,1999,M,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Male Gi / Adult / White / Light
+Ka Wai,Wong,30.0,1994,M,Hong Kong,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / White / Light
+Sean,Graziano,26.0,1999,M,Canada,Platinum Training Facility,,Male Gi / Adult / White / Light
+paul,su,20.0,2004,M,Canada,NKS Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / White / Light
+mike,ashby,26.0,1998,M,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Male Gi / Adult / White / Light
+Peter,Gissing,29.0,1995,M,Canada,Guardhouse Brazilian Jiu-Jitsu,Cicero Costha Canada,Male Gi / Adult / White / Light
+Nickesh,Madha,30.0,1994,M,Canada,Primal Academy,Cicero Costha Canada,Male Gi / Adult / White / Light
+Dev,Reddy,26.0,1998,M,Canada,Soul MMA,Cicero Costha Canada,Male Gi / Adult / White / Light
+Giancarlo,Gaetan,25.0,1999,M,Haiti,Team Renzo Gracie Ottawa,,Male Gi / Adult / White / Light
+ALAN,SALO,29.0,1995,M,India,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Adult / White / Light
+Florian,Wong,26.0,1998,M,France,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Adult / White / Light
+Hugh,Morison,27.0,1997,M,Canada,Hayabusa Academy (Kingston),OpenMat,Male Gi / Adult / White / Light
+Ethan,Guizzo,22.0,2002,M,Canada,Sudbury MMA,,Male Gi / Adult / White / Light
+Aidan,Page,23.0,2001,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / White / Light
+Mohamed,Ali,22.0,2003,M,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Male Gi / Adult / White / Light
+Grigory,Elkin,20.0,2004,M,Russia,Thompson Jiu Jitsu,,Male Gi / Adult / White / Light
+Nicholas,Milojevich,20.0,2004,M,Serbia,5th Dimension Training Academy,Zenith,Male Gi / Adult / White / Light
+Austin,McLaren,22.0,2002,M,Canada,BTT Canada AlphaMMA,Brazilian Top Team,Male Gi / Adult / White / Light
+Trevor,Lethbridge,23.0,2002,M,Canada,Zenith BJJ - Driven,Zenith,Male Gi / Adult / White / Middle
+Evan,Tzavragos,25.0,1999,M,Canada,Warrior Mixed Martial Arts - Newmarket,,Male Gi / Adult / White / Middle
+Austin,Nagy,28.0,1996,M,Canada,Royal City Brazilian Jiu-Jitsu,,Male Gi / Adult / White / Middle
+Ethan,Kirk,19.0,2006,M,Canada,TOPP Performance,SBACANADA,Male Gi / Adult / White / Middle
+Zayd,Alameddine,23.0,2001,M,Canada,Burlington BJJ,,Male Gi / Adult / White / Middle
+Shariful,Islam,30.0,1995,M,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Male Gi / Adult / White / Middle
+Matthew,Mercier,24.0,2000,M,Canada,St. Catharines Brazilian Jiu Jitsu,,Male Gi / Adult / White / Middle
+Omar,Blackford,29.0,1995,M,Canada,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Adult / White / Middle
+Nolan,Brien,21.0,2003,M,Canada,Kemptville Academy of Martial Arts,Renzo Gracie Ottawa,Male Gi / Adult / White / Middle
+alper,celik,21.0,2003,M,Canada,Gracie Barra North York Toronto,Gracie Barra,Male Gi / Adult / White / Middle
+Johnathan,Marcanio,22.0,2002,M,Canada,Octa BJJ,,Male Gi / Adult / White / Middle
+Matthew,Alunni,28.0,1997,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Adult / White / Middle
+Zoltan,Gyongyossy,22.0,2002,M,Canada,Doggpound MMA,,Male Gi / Adult / White / Middle
+David,Nethersole,25.0,1999,M,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Male Gi / Adult / White / Middle
+Raul,Fernandez-Muniz,21.0,2004,M,Canada,5th Dimension Training Academy,Zenith,Male Gi / Adult / White / Middle
+Ethan,Wright,21.0,2003,M,Canada,STASIS,,Male Gi / Adult / White / Middle
+James,Pankiw,20.0,2004,M,Canada,Hayabusa Academy (Kingston),OpenMat,Male Gi / Adult / White / Middle
+Ganeshraam,Luckyrajah,27.0,1997,M,Sri Lanka,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Adult / White / Middle
+jonathan,luna,21.0,2003,M,Canada,Bazooka Kickboxing and MMA,,Male Gi / Adult / White / Middle
+Angus,Carroll,28.0,1996,M,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Adult / White / Middle
+Nicholas,Mallozzi,25.0,2000,M,Canada,Grappling Arts Academy & Fitness,,Male Gi / Adult / White / Medium Heavy
+Maxwell,Enns,22.0,2002,M,Canada,Platinum Training Facility,,Male Gi / Adult / White / Medium Heavy
+Eric,Cortes,24.0,2001,M,Canada,Limitless Brazilian Jiujitsu,,Male Gi / Adult / White / Medium Heavy
+Jason,Feng,22.0,2002,M,Canada,Gentle Arts Dojo,Northern Vanguard BJJ Association,Male Gi / Adult / White / Medium Heavy
+Derek,Ryan,21.0,2003,M,Canada,STASIS,,Male Gi / Adult / White / Medium Heavy
+Erik,Derakhshan,18.0,2006,M,Canada,Octa BJJ,,Male Gi / Adult / White / Medium Heavy
+Daryl,Haygarth,29.0,1996,M,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Male Gi / Adult / White / Medium Heavy
+Ahmad,Imtiaz,25.0,1999,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / White / Medium Heavy
+Tevin,Piper,26.0,1999,M,Canada,Guardhouse Brazilian Jiu-Jitsu,Cicero Costha Canada,Male Gi / Adult / White / Medium Heavy
+Austin,Page,26.0,1998,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / White / Medium Heavy
+Ethan,Dain,25.0,1999,M,Canada,The Academy Toronto,,Male Gi / Adult / White / Medium Heavy
+Frank,Pizzimenti,31.0,1994,M,Canada,Gracie Humaita Woodbridge,,Male Gi / Adult / White / Medium Heavy
+Jerry,Chan,28.0,1996,M,Hong Kong,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / White / Heavy
+Taylor,Rowed,23.0,2001,M,Canada,GUVNA BJJ,Cicero Costha Canada,Male Gi / Adult / White / Heavy
+Jacob,Giczi,23.0,2001,M,Canada,Limitless Brazilian Jiujitsu,,Male Gi / Adult / White / Heavy
+Daniel,Skutta,25.0,1999,M,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Male Gi / Adult / White / Heavy
+Joshua,Forbes,27.0,1997,M,Canada,Burlington BJJ,,Male Gi / Adult / White / Heavy
+Daniel,CANNON,19.0,2005,M,Canada,Eris Martial Arts,10thplanet JJ,Male Gi / Adult / White / Super Heavy
+Cole,O’Prey,23.0,2001,M,Canada,GUVNA BJJ,Cicero Costha Canada,Male Gi / Adult / White / Super Heavy
+Lukas,Barauskas,26.0,1998,M,Canada,Nu Wave Jiu Jitsu Academy,Nova União,Male Gi / Adult / White / Super Heavy
+Patrick,Alton,29.0,1996,M,Canada,Huron BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / White / Super Heavy
+John,Bone,28.0,1997,M,Canada,Taylor Jiu-jitsu,,Male Gi / Adult / White / Super Heavy
+Pedro,Cabral,34.0,1991,M,Brazil,OpenMat mma,OpenMat,Male Gi / Adult / White / Ultra Heavy
+Jaime,Leal,23.0,2001,M,Mexico,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Adult / White / Ultra Heavy
+Mason,Blair,27.0,1997,M,Canada,BTT Canada AlphaMMA,Brazilian Top Team,Male Gi / Adult / White / Ultra Heavy
+Jason,Mackay,28.0,1996,M,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Male Gi / Adult / White / Ultra Heavy
+STEVEN,DORSCH,30.0,1994,M,Canada,Pound4Pound - Resolute Jiu-Jitsu,Body of Four Team,Male Gi / Adult / White / Ultra Heavy
+Elmedin,Kertic,28.0,1996,M,Canada,Grand River BJJ Cicero Costha Canada,Cicero Costha Canada,Male Gi / Adult / White / Ultra Heavy
+Chet,Greene,30.0,1994,M,Antigua and Barbuda,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Adult / White / Ultra Heavy
+Krystian,Grzesik,28.0,1996,M,Canada,Octa BJJ,,Male Gi / Adult / White / Ultra Heavy
+Lemuel,Nufio-Escobar,29.0,1995,M,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Male Gi / Adult / Blue / Light Feather
+James Alexander,Marin,19.0,2005,M,Philippines,Toronto Top Team,Cicero Costha Canada,Male Gi / Adult / Blue / Light Feather
+Alejandro,Hernandez,28.0,1996,M,Venezuela,MN BJJ Academy,R1ngBJJ,Male Gi / Adult / Blue / Light Feather
+Sebastian,Amorim,28.0,1997,M,Canada,Cambridge BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Light Feather
+Bladen,Anderson,18.0,2006,M,Canada,Pound4Pound - Resolute Jiu-Jitsu,Body of Four Team,Male Gi / Adult / Blue / Light Feather
+jongin,park,25.0,1999,M,South Korea,Santos Brothers BJJ,Nova União,Male Gi / Adult / Blue / Light Feather
+Mark,Alcamo,22.0,2002,M,South Korea,Rev MMA Toronto,,Male Gi / Adult / Blue / Light Feather
+Jacques,OYAYA ROGOMBE,23.0,2002,M,Gabon,CARLSON GRACIE MONTREAL,,Male Gi / Adult / Blue / Light Feather
+Dan,Zuykov,19.0,2005,M,Canada,Sudbury MMA,,Male Gi / Adult / Blue / Light Feather
+Hamza,Riaz,24.0,2000,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Light Feather
+Cody,Morin,25.0,1999,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Adult / Blue / Light Feather
+Jack,Dempsey,18.0,2006,M,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Male Gi / Adult / Blue / Light Feather
+Shawanjot,Mangat,28.0,1997,M,India,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Light Feather
+Colton,Cox,29.0,1995,M,Canada,Octa BJJ,GFTeam,Male Gi / Adult / Blue / Light Feather
+JOSEPH,CARIZON,28.0,1996,M,Philippines,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Adult / Blue / Feather
+jon,dollolasa,30.0,1995,M,Canada,SBG Canada,SBG - Straight Blast Gym,Male Gi / Adult / Blue / Feather
+MIchael,Costa,18.0,2007,M,Brazil,Octa BJJ,,Male Gi / Adult / Blue / Feather
+Gabriel,Matos,19.0,2005,M,Brazil,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Blue / Feather
+Rafael,Martinez,23.0,2001,M,Canada,Joslin’s MMA,Northern Vanguard BJJ Association,Male Gi / Adult / Blue / Feather
+Christian,Levan,23.0,2001,M,Singapore,Team Renzo Gracie Ottawa,Renzo Gracie Ottawa,Male Gi / Adult / Blue / Feather
+Owen,Scheerer,21.0,2003,M,Canada,Stratford BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Feather
+Milan,Wilson,24.0,2000,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Feather
+Dairon,Diaz,21.0,2003,M,Canada,Cambridge BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Feather
+Nicholas,Bouchard,21.0,2003,M,Canada,Sudbury MMA,,Male Gi / Adult / Blue / Feather
+Ahmed,Abdelrahman,36.0,1988,M,Egypt,MAFA BJJ,96 jiu jitsu,Male Gi / Adult / Blue / Light
+Pier-Alexandre,Raymond,19.0,2005,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Adult / Blue / Light
+Billy,Banfield,19.0,2005,M,Canada,Joslin’s MMA,Northern Vanguard BJJ Association,Male Gi / Adult / Blue / Light
+Ashvin,Desai,19.0,2005,M,Canada,Submissions Academy Milton,Body of Four Team,Male Gi / Adult / Blue / Light
+Eduardo,Chavez,20.0,2004,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Blue / Light
+Braiden,Nguyen-Huu,21.0,2004,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Light
+Justin,Viveiros,30.0,1994,M,Canada,OpenMat mma,OpenMat,Male Gi / Adult / Blue / Light
+Coltrane,Daniels,25.0,1999,M,Canada,PSLPB CICERO COSTHA,Cicero Costha Canada,Male Gi / Adult / Blue / Light
+Owen,Foster,19.0,2005,M,Canada,Huron BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Light
+Christopher,Eybergen,25.0,1999,M,Canada,Stratford BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Light
+Keeliann,Février,19.0,2006,M,France,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Adult / Blue / Light
+Thomas,Chabot,23.0,2002,M,Canada,Royal Jiu-Jitsu Quebec,Renzo Gracie Ottawa,Male Gi / Adult / Blue / Light
+Jesse,Hutson,22.0,2003,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Light
+Sam,Mauremootoo,21.0,2003,M,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Light
+Ali,Ali,26.0,1998,M,Canada,Burlington Training Centre,Nova União,Male Gi / Adult / Blue / Light
+Brady,Kibler,18.0,2006,M,Canada,TOPP Performance,SBACANADA,Male Gi / Adult / Blue / Light
+Adam,Sammady,16.0,2009,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Blue / Light
+Logan,White,25.0,1999,M,Canada,Platinum Training Facility,,Male Gi / Adult / Blue / Middle
+Logan,Froese,20.0,2005,M,Canada,Crossroads Martial Fitness Academy,,Male Gi / Adult / Blue / Middle
+Gabriel,Carvalho,18.0,2006,M,Brazil,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Adult / Blue / Middle
+Wren,Winters,22.0,2002,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / Blue / Middle
+Sphynx,Church,26.0,1998,M,Canada,The Academy Toronto,,Male Gi / Adult / Blue / Middle
+Sal,Merhi,20.0,2005,M,Canada,Ape Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / Blue / Middle
+Logan,Johnson,23.0,2002,M,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Male Gi / Adult / Blue / Middle
+Anthony,Rogers,24.0,2000,M,Switzerland,CARLSON GRACIE MONTREAL,,Male Gi / Adult / Blue / Middle
+Mikyle,Bolante,19.0,2006,M,Canada,Gracie Barra North York Toronto,Gracie Barra,Male Gi / Adult / Blue / Middle
+Jake,Tahan,27.0,1997,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Adult / Blue / Middle
+Ralph,Julien,23.0,2002,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / Blue / Middle
+Segundo,Arancibia,18.0,2006,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Middle
+Timothy,Dyck,23.0,2001,M,Canada,Bowen Brasa JiuJitsu,Brasa,Male Gi / Adult / Blue / Medium Heavy
+Thando,Ncube,30.0,1995,M,Canada,5th Dimension Training Academy,Zenith,Male Gi / Adult / Blue / Medium Heavy
+Christopher,Matias,20.0,2004,M,Portugal,Ape Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / Blue / Medium Heavy
+Clayton,Wood,19.0,2006,M,Canada,Bowler’BJJ,Northern Vanguard BJJ Association,Male Gi / Adult / Blue / Medium Heavy
+Cash,Kelar,18.0,2006,M,Canada,Greenwood Jiu Jitsu,,Male Gi / Adult / Blue / Medium Heavy
+Matthew,Serrano,18.0,2006,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Medium Heavy
+Joey,Gibson,22.0,2003,M,Canada,Guardhouse Brazilian Jiu-Jitsu,Cicero Costha Canada,Male Gi / Adult / Blue / Medium Heavy
+William,Evans,21.0,2003,M,Canada,DNA JJ,,Male Gi / Adult / Blue / Medium Heavy
+Ryan,Klassen,19.0,2006,M,Canada,Ape Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / Blue / Heavy
+Kyle,MacPherson,22.0,2002,M,Canada,Silver 7 Martial Arts/Marcelo Garcia Jiu-Jitsu Association (Ottawa),Alliance Marcelo Garcia International,Male Gi / Adult / Blue / Heavy
+Brandon,Rao,26.0,1998,M,Canada,SBG Canada,SBG - Straight Blast Gym,Male Gi / Adult / Blue / Heavy
+Kyle,Hoelscher,29.0,1995,M,Canada,Huron BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Heavy
+Noah,Berdowski,27.0,1997,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Adult / Blue / Heavy
+Kevin,D'Sylva,30.0,1995,M,Canada,MN BJJ Academy,R1ngBJJ,Male Gi / Adult / Blue / Heavy
+Joshua,Lee,17.0,2007,M,Canada,Octa BJJ,,Male Gi / Adult / Blue / Heavy
+djo,bolemwa,27.0,1997,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Heavy
+Marinos,Vatsos,29.0,1995,M,Greece,Riverdale Martial Arts,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Super Heavy
+Anthony,Frongia,28.0,1997,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Adult / Blue / Super Heavy
+Braedan,Hill,30.0,1994,M,Canada,Grounded Studios,,Male Gi / Adult / Blue / Ultra Heavy
+Ronald,Osei,32.0,1992,M,Canada,OpenMat mma,OpenMat,Male Gi / Adult / Blue / Ultra Heavy
+Mike,Murray,34.0,1990,M,Canada,Kalsamrit Martial Arts,Cicero Costha Canada,Male Gi / Adult / Blue / Ultra Heavy
+Nicholas,Saucier,36.0,1988,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Adult / Blue / Ultra Heavy
+Patrick,Roloson,39.0,1986,M,Canada,Limitless Brazilian Jiujitsu,,Male Gi / Adult / Blue / Ultra Heavy
+Ashvin,Desai,19.0,2005,M,Canada,Submissions Academy Milton,Body of Four Team,Male Gi / Adult / Blue / Open Weight - Light
+Adam,Sammady,16.0,2009,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Blue / Open Weight - Light
+Gabriel,Matos,19.0,2005,M,Brazil,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Blue / Open Weight - Light
+Segundo,Arancibia,18.0,2006,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Open Weight - Heavy
+Christopher,Matias,20.0,2004,M,Portugal,Ape Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / Blue / Open Weight - Heavy
+Ryan,Klassen,19.0,2006,M,Canada,Ape Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / Blue / Open Weight - Heavy
+Anthony,Frongia,28.0,1997,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Adult / Blue / Open Weight - Heavy
+Noah,Berdowski,27.0,1997,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Adult / Blue / Open Weight - Heavy
+Jake,Tahan,27.0,1997,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Adult / Blue / Open Weight - Heavy
+Mike,Murray,34.0,1990,M,Canada,Kalsamrit Martial Arts,Cicero Costha Canada,Male Gi / Adult / Blue / Open Weight - Heavy
+Matthew,Serrano,18.0,2006,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Adult / Blue / Open Weight - Heavy
+Ronald,Osei,32.0,1992,M,Canada,OpenMat mma,OpenMat,Male Gi / Adult / Blue / Open Weight - Heavy
+Carter,Mitchell,23.0,2001,M,Canada,STASIS,,Male Gi / Adult / Purple / Feather
+Malcolm,Teruel,18.0,2006,M,Philippines,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / Purple / Feather
+Vitor Henrique,paixão,21.0,2003,M,Brazil,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Purple / Feather
+steven,watt,29.0,1995,M,Canada,Gracie Barra London Canada,Gracie Barra,Male Gi / Adult / Purple / Feather
+Dylan,Majeste,19.0,2005,M,Canada,PSLPB CICERO COSTHA,Cicero Costha Canada,Male Gi / Adult / Purple / Feather
+Alexander,Irwin,26.0,1998,M,Canada,Submissions Academy Milton,Body of Four Team,Male Gi / Adult / Purple / Feather
+Charles,De Souza,33.0,1992,M,Canada,Guardhouse Brazilian Jiu-Jitsu,Cicero Costha Canada,Male Gi / Adult / Purple / Light
+Jayson,Jacobs,28.0,1997,M,Canada,Stratford BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Purple / Light
+Edgar,Lopez,27.0,1997,M,Canada,Pura BJJ,,Male Gi / Adult / Purple / Light
+Nathan Chin Sing,Fan,29.0,1995,M,Canada,York Judo BJJ,Cicero Costha Canada,Male Gi / Adult / Purple / Light
+Aaron,Coombs,26.0,1998,M,Canada,New Union BJJ,Nova União,Male Gi / Adult / Purple / Light
+Samuel,Rousseau,29.0,1996,M,Canada,SAMPA BJJ,Sampa Team,Male Gi / Adult / Purple / Middle
+Warlisson,Miranda,32.0,1993,M,Brazil,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Purple / Middle
+Brent,Boudreau,27.0,1997,M,Canada,Dragan BJJ (Alliance),,Male Gi / Adult / Purple / Middle
+Alex,Gillespie,28.0,1997,M,Canada,Burlington BJJ,,Male Gi / Adult / Purple / Middle
+Logan,Birr,21.0,2003,M,Canada,Four-Eleven Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / Purple / Medium Heavy
+Anton,Thorson,30.0,1994,M,Canada,Hayabusa Academy (Kingston),OpenMat,Male Gi / Adult / Purple / Medium Heavy
+Roman,Kartofelnikov,28.0,1996,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Purple / Medium Heavy
+William,Desbois,25.0,1999,M,Canada,Sherbatov Gyms,,Male Gi / Adult / Purple / Medium Heavy
+Dolan,Reynolds,25.0,1999,M,United States,Lumber City Combat Sports,Jiu-Jitsu For Life Team,Male Gi / Adult / Purple / Heavy
+Daniel,Voci,30.0,1994,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Adult / Purple / Heavy
+Corey,Flude,33.0,1992,M,Canada,Hayabusa Academy (Kingston),OpenMat,Male Gi / Adult / Purple / Ultra Heavy
+Simon,Pudwell,28.0,1996,M,Canada,Guardhouse Brazilian Jiu-Jitsu,Cicero Costha Canada,Male Gi / Adult / Purple / Ultra Heavy
+Zachary,Sarantos,31.0,1994,M,Canada,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Purple / Ultra Heavy
+Francis,Fulop,32.0,1992,M,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Adult / Purple / Ultra Heavy
+Omar,Perez,26.0,1998,M,Mexico,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Adult / Purple / Ultra Heavy
+Peter,Dupuis,33.0,1992,M,Canada,Zenith BJJ - Driven,Zenith,Male Gi / Adult / Purple / Ultra Heavy
+Vitor Henrique,paixão,21.0,2003,M,Brazil,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Purple / Open Weight - Light
+Brent,Boudreau,27.0,1997,M,Canada,Dragan BJJ (Alliance),,Male Gi / Adult / Purple / Open Weight - Light
+Roman,Kartofelnikov,28.0,1996,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Purple / Open Weight - Heavy
+Zachary,Sarantos,31.0,1994,M,Canada,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Purple / Open Weight - Heavy
+Simon,Pudwell,28.0,1996,M,Canada,Guardhouse Brazilian Jiu-Jitsu,Cicero Costha Canada,Male Gi / Adult / Purple / Open Weight - Heavy
+Warlisson,Miranda,32.0,1993,M,Brazil,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Purple / Open Weight - Heavy
+Corey,Flude,33.0,1992,M,Canada,Hayabusa Academy (Kingston),OpenMat,Male Gi / Adult / Purple / Open Weight - Heavy
+Dolan,Reynolds,25.0,1999,M,United States,Lumber City Combat Sports,Jiu-Jitsu For Life Team,Male Gi / Adult / Purple / Open Weight - Heavy
+Paulo Ricardo,Santos Alves,21.0,2003,M,Brazil,Lotus Club Brasil,Lotus Club USA,Male Gi / Adult / Brown / Light Feather
+Jonathan,Pridham,22.0,2002,M,Taiwan,Champs Academy Canada,Cicero Costha Canada,Male Gi / Adult / Brown / Feather
+Yamber,Lopes,24.0,2000,M,Brazil,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Brown / Feather
+Guillaume,Robert,29.0,1995,M,Canada,Royal Jiu-Jitsu Quebec,Renzo Gracie Ottawa,Male Gi / Adult / Brown / Feather
+Phil,Page,32.0,1993,M,Canada,Silver 7 Martial Arts/Marcelo Garcia Jiu-Jitsu Association (Ottawa),Alliance Marcelo Garcia International,Male Gi / Adult / Brown / Middle
+Ryan,Ball,30.0,1995,M,Canada,PSLPB CICERO COSTHA,Cicero Costha Canada,Male Gi / Adult / Brown / Middle
+Ethan,Major,21.0,2004,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Adult / Brown / Middle
+Graeme,Lipford,25.0,1999,M,Canada,CARLSON GRACIE MONTREAL,,Male Gi / Adult / Brown / Medium Heavy
+nemat,abdullah,26.0,1999,M,Afghanistan,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Adult / Brown / Medium Heavy
+Bilal,Elaswad,33.0,1991,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Adult / Brown / Heavy
+Eduardo Wellington,Freitas da Silva,30.0,1995,M,Brazil,Octa BJJ,GFTeam,Male Gi / Adult / Brown / Heavy
+Nicholas,guillemette,23.0,2001,M,Canada,Evolution BJJ HQ - Gatineau,Evolution Brazilian Jiu-Jitsu,Male Gi / Adult / Brown / Heavy
+Julius,Trimmeliti,31.0,1993,M,Canada,United Grappling Club,RMNU Canada,Male Gi / Adult / Brown / Heavy
+Adam,Scratch,31.0,1993,M,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Adult / Brown / Super Heavy
+Scott,Carter,35.0,1989,M,Canada,Sudbury MMA,,Male Gi / Adult / Brown / Ultra Heavy
+Nicholas,guillemette,23.0,2001,M,Canada,Evolution BJJ HQ - Gatineau,Evolution Brazilian Jiu-Jitsu,Male Gi / Adult / Brown / Open Weight
+Eduardo Wellington,Freitas da Silva,30.0,1995,M,Brazil,Octa BJJ,GFTeam,Male Gi / Adult / Brown / Open Weight
+Scott,Carter,35.0,1989,M,Canada,Sudbury MMA,,Male Gi / Adult / Brown / Open Weight
+Bilal,Elaswad,33.0,1991,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Adult / Brown / Open Weight
+Adam,Scratch,31.0,1993,M,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Adult / Brown / Open Weight
+nemat,abdullah,26.0,1999,M,Afghanistan,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Adult / Brown / Open Weight
+Jonathan,Pridham,22.0,2002,M,Taiwan,Champs Academy Canada,Cicero Costha Canada,Male Gi / Adult / Brown / Open Weight
+Graeme,Lipford,25.0,1999,M,Canada,CARLSON GRACIE MONTREAL,,Male Gi / Adult / Brown / Open Weight
+Vitor Hugo,Sotini,26.0,1998,M,Brazil,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Black / Middle
+Thomas,Armstrong,47.0,1978,M,Canada,Armstrong Academy of Martial Arts,GFTeam,Male Gi / Adult / Black / Middle
+Nathan,Dos Santos,34.0,1990,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Black / Heavy
+RYAN,ALMONTE,32.0,1992,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Adult / Black / Heavy
+Nathan,Dos Santos,34.0,1990,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Adult / Black / Open Weight
+RYAN,ALMONTE,32.0,1992,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Adult / Black / Open Weight
+Vitor Hugo,Sotini,26.0,1998,M,Brazil,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Adult / Black / Open Weight
+Jason,Costa,40.0,1985,M,Canada,BTT Canada,Brazilian Top Team,Male Gi / Master 1 (30+) / White / Feather
+Keon,Pierre,31.0,1993,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Feather
+Dom,Marini,33.0,1991,M,Canada,Grand River BJJ Cicero Costha Canada,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Feather
+Patrick,Banc,31.0,1993,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / White / Feather
+Anatolii,Shkliaruk,30.0,1994,M,Canada,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / White / Feather
+Abhijeet,Krishna,32.0,1992,M,India,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / White / Feather
+Danny,Alhussamy,36.0,1988,M,Saudi Arabia,Thompson Jiu Jitsu,,Male Gi / Master 1 (30+) / White / Light
+Justin,Ralph,37.0,1987,M,Canada,Kemptville Academy of Martial Arts,Renzo Gracie Ottawa,Male Gi / Master 1 (30+) / White / Light
+David,Ampofo,36.0,1989,M,Canada,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 1 (30+) / White / Light
+Hyeonmin(Jade),An,33.0,1991,M,South Korea,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Light
+Sebastian,Deery,37.0,1987,M,England,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Light
+Jon,Martinez,37.0,1987,M,Canada,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / White / Light
+Nestor,Velasquez,34.0,1990,M,Dominican Republic,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Light
+Chris,Wong,30.0,1994,M,Canada,Project XGuard,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Light
+Dylan,Wong,31.0,1994,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Light
+Eric (Hankil),Yu,36.0,1989,M,Canada,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 1 (30+) / White / Light
+PHILLIP,ROBBINS,35.0,1989,M,Canada,STASIS,,Male Gi / Master 1 (30+) / White / Middle
+Justin,Comarin,37.0,1987,M,Canada,Core BJJ/Elite Mississauga,,Male Gi / Master 1 (30+) / White / Middle
+Frank,Marchese,32.0,1992,M,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Middle
+Justin,Bean,36.0,1988,M,Canada,Kalsamrit Martial Arts,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Middle
+Alex,Laidlaw,40.0,1985,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Middle
+Alex,Samad,33.0,1992,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Middle
+Kevin,Badgley,36.0,1988,M,Canada,Kawartha Combat,Body of Four Team,Male Gi / Master 1 (30+) / White / Middle
+Michal,Rembelski,35.0,1989,M,Poland,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Middle
+Youjun,Han,34.0,1990,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Middle
+Ken,MacDermid,38.0,1986,M,Canada,York Judo BJJ,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Middle
+Mitchell,Sanderson,35.0,1989,M,Canada,United BJJ,,Male Gi / Master 1 (30+) / White / Middle
+Chris,Ryu,36.0,1988,M,Canada,Grappling Arts Academy & Fitness,,Male Gi / Master 1 (30+) / White / Middle
+Billy,Paterson,38.0,1986,M,Canada,MSJ COMBAT,Body of Four Team,Male Gi / Master 1 (30+) / White / Middle
+Endri,Krutaj,34.0,1991,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Middle
+Anthony,Alexander,40.0,1985,M,Canada,Team DNA,,Male Gi / Master 1 (30+) / White / Middle
+Jordan,Kimmerle,31.0,1993,M,Canada,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 1 (30+) / White / Middle
+Pavel,Paddubotski,31.0,1993,M,Belarus,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 1 (30+) / White / Middle
+Brent,Brockerville,33.0,1991,M,Canada,Salvosa BJJ/Ascension,Carlson Gracie Team,Male Gi / Master 1 (30+) / White / Medium Heavy
+sebas,morin,37.0,1987,M,Canada,Team Renzo Gracie Ottawa,,Male Gi / Master 1 (30+) / White / Medium Heavy
+Garry,White,37.0,1988,M,United Kingdom,Nu Wave Jiu Jitsu Academy,Nova União,Male Gi / Master 1 (30+) / White / Medium Heavy
+Riley,Brown,39.0,1985,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Medium Heavy
+Alexander,Morrison,31.0,1993,M,Canada,BTT Canada AlphaMMA,Brazilian Top Team,Male Gi / Master 1 (30+) / White / Medium Heavy
+Patrick,Cale,35.0,1989,M,Canada,Salvosa BJJ/Ascension,Carlson Gracie Team,Male Gi / Master 1 (30+) / White / Medium Heavy
+Aymen,Jamroune,31.0,1993,M,Morocco,CARLSON GRACIE MONTREAL,,Male Gi / Master 1 (30+) / White / Medium Heavy
+Kevin,Katchanoski,36.0,1988,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 1 (30+) / White / Medium Heavy
+Oleksandr,Goliachenko,31.0,1993,M,Ukraine,Burlington BJJ,,Male Gi / Master 1 (30+) / White / Medium Heavy
+Dieu,Ngo,39.0,1985,M,Canada,Defensive Arts Training Centre,,Male Gi / Master 1 (30+) / White / Medium Heavy
+Danilo,Ferreira,35.0,1989,M,Brazil,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / White / Medium Heavy
+Josh,Jones,39.0,1985,M,Canada,MN BJJ Academy,R1ngBJJ,Male Gi / Master 1 (30+) / White / Heavy
+Saifu,Li,35.0,1989,M,Canada,Riverdale Martial Arts,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / White / Heavy
+HASAN,FEYZIYEV,33.0,1991,M,Canada,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 1 (30+) / White / Heavy
+Joshua,Graham,36.0,1988,M,Canada,New Union BJJ,Nova União,Male Gi / Master 1 (30+) / White / Heavy
+Sean,Fyfle,33.0,1991,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Heavy
+Jonathan,Yeu,37.0,1987,M,Canada,Four-Eleven Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Heavy
+Javier,Moreira,36.0,1988,M,Ecuador,Champs Academy Canada,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Heavy
+John,Trihenea,37.0,1987,M,Canada,SIXFEET,,Male Gi / Master 1 (30+) / White / Super Heavy
+Aurelien,Mosser,31.0,1993,M,France,Nu Wave Jiu Jitsu Academy,Nova União,Male Gi / Master 1 (30+) / White / Super Heavy
+Peter,Wilson,35.0,1989,M,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / White / Super Heavy
+Leni,Filgueira,35.0,1989,M,Brazil,Gracie Barra North York Toronto,Gracie Barra,Male Gi / Master 1 (30+) / White / Super Heavy
+Jerome,Yumul,31.0,1994,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Super Heavy
+Jade,Meppelder,36.0,1988,M,Canada,Revelation Martial Arts and Fitness,Renzo Gracie Ottawa,Male Gi / Master 1 (30+) / White / Super Heavy
+Jude,Levesque,32.0,1992,M,Canada,Brasa Bowen BJJ,Brasa,Male Gi / Master 1 (30+) / White / Super Heavy
+Richard,Storto,36.0,1988,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Ultra Heavy
+Renauld,Sayles,31.0,1993,M,Canada,Huron BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / White / Ultra Heavy
+Anel,Kertic,31.0,1993,M,Canada,Grand River BJJ Cicero Costha Canada,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Ultra Heavy
+Mitch,Di Venanzo,37.0,1988,M,Canada,MSJ COMBAT,Body of Four Team,Male Gi / Master 1 (30+) / White / Ultra Heavy
+Daniel,qubrossi,31.0,1993,M,Canada,RENZO GRACIE ACADEMY OTTAWA,,Male Gi / Master 1 (30+) / White / Ultra Heavy
+Vadym,Serdiuk,38.0,1986,M,Ukraine,Team Renzo Gracie Ottawa,,Male Gi / Master 1 (30+) / White / Ultra Heavy
+James,Moore,36.0,1989,M,Canada,PSLPB CICERO COSTHA,Cicero Costha Canada,Male Gi / Master 1 (30+) / White / Ultra Heavy
+James,Savage,38.0,1986,M,Canada,Oshawa BJJ and Fitness,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / White / Ultra Heavy
+Kalvin,Ng,34.0,1990,M,Canada,Vaughan Jiu-Jitsu Academy,Body of Four Team,Male Gi / Master 1 (30+) / Blue / Feather
+Andrew,Bilicky,32.0,1992,M,Canada,The Submission Academy,Renzo Gracie Ottawa,Male Gi / Master 1 (30+) / Blue / Feather
+Ahmed,Ibrahim,36.0,1989,M,Egypt,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 1 (30+) / Blue / Feather
+Leonardo,Olvera,38.0,1987,M,Mexico,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Feather
+Sebastian,Ballesteros,35.0,1989,M,Peru,Octa BJJ,GFTeam,Male Gi / Master 1 (30+) / Blue / Feather
+Sonny,Giannopoulos,34.0,1990,M,Canada,Gracie Barra London Canada,Gracie Barra,Male Gi / Master 1 (30+) / Blue / Light
+George,Zedelashvili,38.0,1986,M,Georgia,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Light
+Joshua,Edwards,35.0,1989,M,Canada,Cambridge BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Light
+Benjamin,Robinson,35.0,1989,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Light
+Maxime-Rayan,Drapier Ouldji,32.0,1992,M,Canada,Sherbatov Gyms,,Male Gi / Master 1 (30+) / Blue / Light
+Ricardo,Martinez,35.0,1990,M,Mexico,Progression BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Light
+Eduardo,Nájera,31.0,1993,M,Mexico,Nu Wave Jiu Jitsu Academy,Nova União,Male Gi / Master 1 (30+) / Blue / Light
+Hai,Le,31.0,1993,M,Vietnam,Niagara Top Team,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Light
+Alex,Macleod,33.0,1991,M,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Male Gi / Master 1 (30+) / Blue / Middle
+Jinwei,Ze,30.0,1994,M,China,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Middle
+Kyungsoo,Yoon,35.0,1990,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Middle
+Juan,Montoya,34.0,1991,M,Colombia,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 1 (30+) / Blue / Middle
+Sharlon,Pena,31.0,1994,M,Canada,Grappling Arts Academy & Fitness,,Male Gi / Master 1 (30+) / Blue / Middle
+John,Caruana,35.0,1989,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Middle
+Sean,Spence,30.0,1994,M,Canada,Four-Eleven Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Middle
+Brett,James,39.0,1986,M,Canada,Huron BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Middle
+Randy,Gilmore,34.0,1990,M,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Middle
+Chris,Biggers,40.0,1984,M,Canada,MN BJJ Academy,R1ngBJJ,Male Gi / Master 1 (30+) / Blue / Middle
+Daniel,Yin,35.0,1990,M,Canada,Salvosa BJJ/Ascension,Carlson Gracie Team,Male Gi / Master 1 (30+) / Blue / Middle
+Cody,Gillies,35.0,1989,M,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Middle
+Ariel,Rodello,37.0,1987,M,Brazil,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Medium Heavy
+Richard,Guo,34.0,1991,M,Canada,Salvosa BJJ/Ascension,Carlson Gracie Team,Male Gi / Master 1 (30+) / Blue / Medium Heavy
+Noah,Zhou,31.0,1993,M,China,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Medium Heavy
+Endri,Hoxha,39.0,1986,M,Canada,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Medium Heavy
+Matthew,Muscat,33.0,1991,M,Malta,Grappling Arts Academy & Fitness,,Male Gi / Master 1 (30+) / Blue / Medium Heavy
+Marti,Sison,40.0,1984,M,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Medium Heavy
+Tyler,Gordon,35.0,1989,M,Canada,5th Dimension Training Academy,Zenith,Male Gi / Master 1 (30+) / Blue / Medium Heavy
+João,Santos,31.0,1994,M,Portugal,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Blue / Medium Heavy
+Taylor,Workman,32.0,1992,M,Canada,Lopes BJJ,,Male Gi / Master 1 (30+) / Blue / Heavy
+Yurii,Ohiria,37.0,1987,M,Ukraine,Bazooka Kickboxing and MMA,,Male Gi / Master 1 (30+) / Blue / Heavy
+Pavlo,Kolesnyk,37.0,1987,M,Canada,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 1 (30+) / Blue / Heavy
+Adam,Piatkowski,34.0,1990,M,Canada,The Flock MMA Academy,Carlson Gracie Team,Male Gi / Master 1 (30+) / Blue / Heavy
+Matthew,Rossit-Lavigne,31.0,1993,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Heavy
+Andjelo,Kalashnikov,37.0,1988,M,Serbia,Hamilton BJJ,RMNU Canada,Male Gi / Master 1 (30+) / Blue / Heavy
+Elnur,Kasumov,37.0,1987,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Blue / Heavy
+Anthony,Grisolia,32.0,1992,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Super Heavy
+Daniel,Doyle,36.0,1988,M,Canada,Bora BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Super Heavy
+Nathan,Lavigne,33.0,1992,M,Canada,Joslin’s MMA,Northern Vanguard BJJ Association,Male Gi / Master 1 (30+) / Blue / Super Heavy
+Peter-Alexander,Spanos,40.0,1984,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Super Heavy
+Tyler,MacDonald,38.0,1986,M,Canada,Concept BJJ Academy,,Male Gi / Master 1 (30+) / Blue / Super Heavy
+Nicholas,Bixcul,33.0,1992,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Blue / Ultra Heavy
+HENRIQUE,SERRAO,33.0,1992,M,Brazil,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Blue / Ultra Heavy
+Nicholas,Bixcul,33.0,1992,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Blue / Open Weight
+HENRIQUE,SERRAO,33.0,1992,M,Brazil,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Blue / Open Weight
+Elnur,Kasumov,37.0,1987,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Blue / Open Weight
+Ariel,Rodello,37.0,1987,M,Brazil,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Blue / Open Weight
+Andrew,Bilicky,32.0,1992,M,Canada,The Submission Academy,Renzo Gracie Ottawa,Male Gi / Master 1 (30+) / Blue / Open Weight
+Peter-Alexander,Spanos,40.0,1984,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Open Weight
+Matthew,Rossit-Lavigne,31.0,1993,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 1 (30+) / Blue / Open Weight
+David,Nguyen,33.0,1992,M,Canada,Guardhouse Brazilian Jiu-Jitsu,Cicero Costha Canada,Male Gi / Master 1 (30+) / Purple / Feather
+Daniel,Yhip,36.0,1988,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Purple / Feather
+Douglas,Cass,34.0,1990,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Purple / Feather
+Daniel Aldo,Vanin,38.0,1986,M,Canada,Gracie Humaita Woodbridge,,Male Gi / Master 1 (30+) / Purple / Feather
+Alex,Ayliffe,34.0,1990,M,Canada,Submissions Academy Milton,Body of Four Team,Male Gi / Master 1 (30+) / Purple / Feather
+Eric,Weiss,39.0,1986,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Purple / Feather
+Ti,Tran,37.0,1987,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Purple / Light
+Symeon,Kharalampiiev,34.0,1990,M,Ukraine,Nu Wave Jiu Jitsu Academy,Nova União,Male Gi / Master 1 (30+) / Purple / Light
+Willis,Lettre,33.0,1991,M,Hong Kong,CARLSON GRACIE MONTREAL,,Male Gi / Master 1 (30+) / Purple / Light
+David,Carroll,40.0,1984,M,Canada,Hawkesbury Martial Arts,,Male Gi / Master 1 (30+) / Purple / Light
+Wes,Trott,31.0,1993,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Purple / Middle
+Kash,Chalak,36.0,1989,M,Canada,Bora BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Purple / Middle
+Scott,Phillips,36.0,1988,M,Canada,Huron BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Purple / Middle
+Ryan,Hollenbeck,36.0,1988,M,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Male Gi / Master 1 (30+) / Purple / Middle
+Moshe,Fogel,32.0,1992,M,Canada,De La Costa Academy Ottawa,Academia de la Costa,Male Gi / Master 1 (30+) / Purple / Middle
+CLEEFORD,JEAN CHARLES,39.0,1986,M,France,Therien - Gringo Bjj,Cicero Costha Canada,Male Gi / Master 1 (30+) / Purple / Medium Heavy
+Zachary,Smith,35.0,1990,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 1 (30+) / Purple / Medium Heavy
+Blake,Sing,36.0,1988,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Purple / Medium Heavy
+Julian,Chang,37.0,1988,M,Canada,OpenMat mma,OpenMat,Male Gi / Master 1 (30+) / Purple / Medium Heavy
+Bryan,Fontez,38.0,1986,M,Canada,Joslin’s MMA,Northern Vanguard BJJ Association,Male Gi / Master 1 (30+) / Purple / Medium Heavy
+Juniors,Damy,39.0,1985,M,Madagascar,De La Costa Academy Ottawa,Academia de la Costa,Male Gi / Master 1 (30+) / Purple / Medium Heavy
+Matt,Tokuc,35.0,1990,M,Canada,Passador Jiu Jitsu Academy,,Male Gi / Master 1 (30+) / Purple / Medium Heavy
+Willis,Lettre,33.0,1991,M,Hong Kong,CARLSON GRACIE MONTREAL,,Male Gi / Master 1 (30+) / Purple / Open Weight
+Eric,Weiss,39.0,1986,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Purple / Open Weight
+Moshe,Fogel,32.0,1992,M,Canada,De La Costa Academy Ottawa,Academia de la Costa,Male Gi / Master 1 (30+) / Purple / Open Weight
+Wes,Trott,31.0,1993,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Purple / Open Weight
+Cameron,Lepage,36.0,1988,M,Canada,Paradigm Martial Arts,Renzo Gracie Ottawa,Male Gi / Master 1 (30+) / Brown/Black / Light Feather
+Lam,Ngo,42.0,1983,M,Canada,Joslin’s MMA,Northern Vanguard BJJ Association,Male Gi / Master 1 (30+) / Brown/Black / Light Feather
+Tyler,Weaver,37.0,1987,M,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Male Gi / Master 1 (30+) / Brown/Black / Light Feather
+Jason,Yee,36.0,1988,M,Canada,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Feather
+Patrick,Mendoza,35.0,1989,M,Dominican Republic,Salvosa BJJ/Ascension,Carlson Gracie Team,Male Gi / Master 1 (30+) / Brown/Black / Feather
+Seth,Quiring,38.0,1987,M,Canada,PSLPB CICERO COSTHA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Brown/Black / Feather
+kevin,wheeler,38.0,1987,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Brown/Black / Feather
+Pawak,Acharya,31.0,1993,M,Nepal,Tanuki Martial Arts,Body of Four Team,Male Gi / Master 1 (30+) / Brown/Black / Light
+Anand,Ondhia,35.0,1989,M,Canada,Higher Wave Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 1 (30+) / Brown/Black / Light
+Colin,MacMichael,37.0,1987,M,Canada,Anchor Combat Academy,GFTeam,Male Gi / Master 1 (30+) / Brown/Black / Light
+TK,Butler,39.0,1985,M,Canada,GUVNA BJJ,Cicero Costha Canada,Male Gi / Master 1 (30+) / Brown/Black / Light
+Ryan,O'Shea,37.0,1987,M,Canada,Stratford BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Light
+jason,goncalves,36.0,1989,M,Canada,New Union BJJ,Nova União,Male Gi / Master 1 (30+) / Brown/Black / Light
+Adio,Edwards,39.0,1985,M,Canada,Four-Eleven Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 1 (30+) / Brown/Black / Light
+Lucas,Bedard,36.0,1988,M,Canada,Grounded Studios,,Male Gi / Master 1 (30+) / Brown/Black / Light
+Mike,McCormick,40.0,1984,M,Canada,TRIBE JJ,,Male Gi / Master 1 (30+) / Brown/Black / Light
+david,mosleh,32.0,1992,M,Canada,Jiu-Jitsu for Life Team Canada,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Light
+Matthew,Reeve,34.0,1991,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 1 (30+) / Brown/Black / Middle
+Nicholas,Reyes,40.0,1984,M,Philippines,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Middle
+andrew,racine,32.0,1993,M,Canada,Renzo Gracie Oama Montreal,Renzo Gracie Ottawa,Male Gi / Master 1 (30+) / Brown/Black / Middle
+Pavel,Poiarkov,37.0,1987,M,Russia,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 1 (30+) / Brown/Black / Middle
+Marc,Charron,32.0,1992,M,Canada,Grounded Studios,,Male Gi / Master 1 (30+) / Brown/Black / Middle
+Peter,Thompson,38.0,1987,M,Scotland,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Middle
+Keon,Park,35.0,1989,M,South Korea,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Middle
+Andrea,Piccolo,34.0,1990,M,Italy,Pura BJJ,,Male Gi / Master 1 (30+) / Brown/Black / Medium Heavy
+Marko,Pavlovic,42.0,1983,M,Serbia,OpenMat mma,OpenMat,Male Gi / Master 1 (30+) / Brown/Black / Medium Heavy
+AKIRA,DANSON,39.0,1985,M,Canada,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Medium Heavy
+Alex,Lanza,35.0,1989,M,Brazil,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Brown/Black / Medium Heavy
+dainis,nguyen huu,35.0,1989,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Medium Heavy
+Domenic,Ruccolo,37.0,1988,M,Canada,Sherbatov Gyms,,Male Gi / Master 1 (30+) / Brown/Black / Super Heavy
+Stephen,Bennett,36.0,1988,M,Canada,The Grappling Garden,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Super Heavy
+Justin,Sim,35.0,1989,M,Canada,Progression BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Super Heavy
+Brian,Higgins,40.0,1985,M,Canada,Pura BJJ,,Male Gi / Master 1 (30+) / Brown/Black / Super Heavy
+Josh,Sequeira,33.0,1991,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 1 (30+) / Brown/Black / Super Heavy
+Cody,Maccharles,31.0,1993,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Brown/Black / Super Heavy
+Antonio,Dimitrovski,34.0,1990,M,North Macedonia,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Brown/Black / Ultra Heavy
+Antonio,Dimitrovski,34.0,1990,M,North Macedonia,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 1 (30+) / Brown/Black / Open Weight
+dainis,nguyen huu,35.0,1989,M,Canada,Team DNA,Jiu-Jitsu For Life Team,Male Gi / Master 1 (30+) / Brown/Black / Open Weight
+Jonathan,Bartel,40.0,1984,M,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / White / Feather
+Jeff,Johnson,43.0,1981,M,Canada,RENZO GRACIE ACADEMY OTTAWA,,Male Gi / Master 2 (40+) / White / Feather
+Daniel,Taylor,40.0,1984,M,South Korea,Four-Eleven Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 2 (40+) / White / Feather
+Paolo,Trulli,41.0,1983,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 2 (40+) / White / Feather
+Dave,Legere,50.0,1975,M,Canada,BTT Canada AlphaMMA,Brazilian Top Team,Male Gi / Master 2 (40+) / White / Feather
+George,Tsintzouras,49.0,1975,M,Canada,Octa BJJ,GFTeam,Male Gi / Master 2 (40+) / White / Feather
+Norman,Greedy,42.0,1982,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 2 (40+) / White / Feather
+Neil,Ortilla,48.0,1976,M,Canada,Grappling Arts Academy & Fitness,,Male Gi / Master 2 (40+) / White / Light
+Kaream,Osman,44.0,1981,M,Canada,Ottawa Academy of Martial Arts,Renzo Gracie Ottawa,Male Gi / Master 2 (40+) / White / Light
+Robert,Pulkys,41.0,1983,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 2 (40+) / White / Light
+Rudy,Ionides,48.0,1976,M,Canada,Greenwood Jiu Jitsu,,Male Gi / Master 2 (40+) / White / Light
+David,Murray,50.0,1974,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 2 (40+) / White / Light
+Andrew,Mackay,42.0,1982,M,Canada,Revelation Martial Arts and Fitness,Renzo Gracie Ottawa,Male Gi / Master 2 (40+) / White / Middle
+Dave,Saville,47.0,1978,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / White / Middle
+Andrew,Lui,44.0,1980,M,Canada,"Battle Arts Academy, Mississauga",Cicero Costha Canada,Male Gi / Master 2 (40+) / White / Middle
+Jonathan,Whelan,44.0,1980,M,Canada,Lopes BJJ,,Male Gi / Master 2 (40+) / White / Middle
+Gilles,Lamarche,44.0,1980,M,Canada,Sudbury MMA,,Male Gi / Master 2 (40+) / White / Middle
+Kevin,Eastman,47.0,1977,M,Canada,Grappling Arts Academy & Fitness,,Male Gi / Master 2 (40+) / White / Middle
+Steve,Mantzouranis,44.0,1980,M,Canada,Rev MMA Toronto,,Male Gi / Master 2 (40+) / White / Middle
+Mark,Vassallo,48.0,1976,M,Malta,Grappling Arts Academy & Fitness,,Male Gi / Master 2 (40+) / White / Heavy
+Jon,Culford,46.0,1978,M,Canada,Bowen Brasa JiuJitsu,Brasa,Male Gi / Master 2 (40+) / White / Heavy
+Tom,Radosevic,52.0,1972,M,Canada,Nu Wave Jiu Jitsu Academy,Nova União,Male Gi / Master 2 (40+) / White / Heavy
+Matt,Sauve,41.0,1983,M,Canada,Rumble Martial Arts,,Male Gi / Master 2 (40+) / White / Heavy
+Maor,Shpans,43.0,1981,M,Canada,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 2 (40+) / White / Heavy
+Bruno,Aguiar Barbosa Braga,43.0,1981,M,Brazil,Submissions Academy Milton,Body of Four Team,Male Gi / Master 2 (40+) / White / Heavy
+Svennapier,MacPherson,50.0,1975,M,Canada,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 2 (40+) / White / Heavy
+Joe,Manley,45.0,1979,M,Canada,World Championship Martial Arts,Renzo Gracie Ottawa,Male Gi / Master 2 (40+) / White / Heavy
+Paul,Pennacchietti,41.0,1984,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 2 (40+) / White / Super Heavy
+Matt,Davis,44.0,1980,M,Canada,Rumble Martial Arts,,Male Gi / Master 2 (40+) / White / Super Heavy
+Curtis,Leblanc,43.0,1982,M,Canada,Taylor Jiu-jitsu,,Male Gi / Master 2 (40+) / White / Super Heavy
+Tony,Yanuziello,42.0,1982,M,Canada,Eris Martial Arts,10thplanet JJ,Male Gi / Master 2 (40+) / White / Super Heavy
+Jason,Sutcliffe,43.0,1981,M,Canada,GUVNA BJJ,Cicero Costha Canada,Male Gi / Master 2 (40+) / White / Super Heavy
+Armando,Ortega,42.0,1983,M,Nicaragua,STASIS,,Male Gi / Master 2 (40+) / White / Super Heavy
+Kirk,Reynolds,46.0,1978,M,Canada,BTT Canada AlphaMMA,Brazilian Top Team,Male Gi / Master 2 (40+) / White / Super Heavy
+Gregory,Paterson,44.0,1980,M,Canada,Paradigm Martial Arts,Renzo Gracie Ottawa,Male Gi / Master 2 (40+) / White / Ultra Heavy
+Shawn,Conley,49.0,1976,M,Canada,Octa BJJ,GFTeam,Male Gi / Master 2 (40+) / White / Ultra Heavy
+NORRIS,FRANCIS,41.0,1983,M,Canada,MSJ COMBAT,Body of Four Team,Male Gi / Master 2 (40+) / White / Ultra Heavy
+Phil,Howie,44.0,1980,M,Canada,5th Dimension Training Academy,Zenith,Male Gi / Master 2 (40+) / White / Ultra Heavy
+Alexandr,Visnea,41.0,1983,M,Canada,Submissions Academy Milton,Body of Four Team,Male Gi / Master 2 (40+) / White / Ultra Heavy
+Joseph,Kim,47.0,1977,M,Canada,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Blue / Light Feather
+John,See,40.0,1984,M,Canada,Grappling Arts Academy & Fitness,,Male Gi / Master 2 (40+) / Blue / Light Feather
+Adam,Caplan,42.0,1982,M,Canada,Toronto Top Team,Cicero Costha Canada,Male Gi / Master 2 (40+) / Blue / Feather
+Zanoni,Ngira,43.0,1982,M,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Male Gi / Master 2 (40+) / Blue / Feather
+Mario,Valenzuela,42.0,1982,M,El Salvador,Tanuki Martial Arts,Body of Four Team,Male Gi / Master 2 (40+) / Blue / Feather
+Ken,Lewis,47.0,1977,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 2 (40+) / Blue / Feather
+bradley,mullan,44.0,1980,M,Canada,Mamute Martial Arts Academy,,Male Gi / Master 2 (40+) / Blue / Feather
+Jose,Garnica,40.0,1984,M,Venezuela,Guardhouse Brazilian Jiu-Jitsu,Cicero Costha Canada,Male Gi / Master 2 (40+) / Blue / Light
+Donny,Carmichael,46.0,1978,M,Canada,Hayabusa Academy (Kingston),OpenMat,Male Gi / Master 2 (40+) / Blue / Light
+Marc,Chartrand,43.0,1981,M,Canada,Stratford BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Blue / Light
+Andrew,Kim,42.0,1983,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 2 (40+) / Blue / Light
+derek,ratcliffe,46.0,1979,M,Canada,House of Combat,TROPA DE ELITE,Male Gi / Master 2 (40+) / Blue / Light
+Frank,Bellehumeur,47.0,1977,M,Canada,Northstar Martial Arts Sudbury,,Male Gi / Master 2 (40+) / Blue / Light
+Diogo,Resende,41.0,1984,M,Portugal,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 2 (40+) / Blue / Light
+Dan,Horton,49.0,1975,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 2 (40+) / Blue / Middle
+Chris,Kowaluk,43.0,1981,M,Canada,Cavalo Martial Arts Academy,,Male Gi / Master 2 (40+) / Blue / Middle
+Mark,Engelhardt,41.0,1983,M,Canada,The Submission Academy,Renzo Gracie Ottawa,Male Gi / Master 2 (40+) / Blue / Middle
+Hari,Ghuman,44.0,1980,M,Canada,BTT Canada AlphaMMA,Brazilian Top Team,Male Gi / Master 2 (40+) / Blue / Middle
+Derek,Woodruff,46.0,1978,M,Canada,Pound4Pound - Resolute Jiu-Jitsu,Body of Four Team,Male Gi / Master 2 (40+) / Blue / Middle
+Jean-Sébastien,Lemay,43.0,1982,M,Canada,SAMPA BJJ,Sampa Team,Male Gi / Master 2 (40+) / Blue / Medium Heavy
+Genna,Gelfand,43.0,1981,M,Canada,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Blue / Medium Heavy
+JOSH,SMITH,45.0,1979,M,Canada,Rumble Martial Arts,,Male Gi / Master 2 (40+) / Blue / Medium Heavy
+Rommel,Camu,45.0,1979,M,Philippines,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 2 (40+) / Blue / Medium Heavy
+Chris,Ludgate,43.0,1981,M,Canada,Bowen Brasa JiuJitsu,Brasa,Male Gi / Master 2 (40+) / Blue / Medium Heavy
+Hugh,Hennessey,49.0,1975,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Blue / Heavy
+Chris,Ludgate,43.0,1981,M,Canada,Bowen Brasa JiuJitsu,Brasa,Male Gi / Master 2 (40+) / Blue / Open Weight
+Andrew,Kim,42.0,1983,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 2 (40+) / Blue / Open Weight
+Hugh,Hennessey,49.0,1975,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Blue / Open Weight
+Kevin,Ban,48.0,1976,M,Canada,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Purple / Feather
+chris,tilson,43.0,1982,M,Canada,The Submission Academy,Renzo Gracie Ottawa,Male Gi / Master 2 (40+) / Purple / Feather
+Nicholas,Stedman,50.0,1975,M,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Purple / Feather
+ian,wismer,41.0,1983,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 2 (40+) / Purple / Feather
+Tofiq,Indawala,44.0,1980,M,Canada,GUVNA BJJ,Cicero Costha Canada,Male Gi / Master 2 (40+) / Purple / Light
+Carlo,Filice,47.0,1977,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 2 (40+) / Purple / Light
+Babak,Rafat,42.0,1982,M,Canada,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Purple / Light
+Mack,Ketchell,47.0,1978,M,Canada,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Purple / Light
+Vasyl,Kapustian,45.0,1979,M,Canada,King Jiu Jitsu,,Male Gi / Master 2 (40+) / Purple / Light
+shawn,meehan,42.0,1982,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 2 (40+) / Purple / Middle
+Ryan,O’Donnell,46.0,1978,M,Canada,Stratford BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Purple / Middle
+Lindsay,Austin,47.0,1978,M,Canada,Pound4Pound - Resolute Jiu-Jitsu,Body of Four Team,Male Gi / Master 2 (40+) / Purple / Middle
+Neil,Loserro,46.0,1978,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Purple / Medium Heavy
+David,Dwyer,47.0,1978,M,Canada,The Submission Academy,Renzo Gracie Ottawa,Male Gi / Master 2 (40+) / Purple / Medium Heavy
+Alan,Titone,42.0,1983,M,United States,Saint Barth BJJ,BJJ Globetrotters,Male Gi / Master 2 (40+) / Purple / Medium Heavy
+Roopjot,Sandhur,42.0,1982,M,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Purple / Medium Heavy
+Riccardo,Fronte,47.0,1977,M,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Purple / Heavy
+Joseph,Brightman,45.0,1979,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 2 (40+) / Purple / Heavy
+Cameron,Levitt,48.0,1976,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 2 (40+) / Purple / Super Heavy
+Josh,Connor,43.0,1981,M,Canada,Academix Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Purple / Ultra Heavy
+Joe,Kennedy,41.0,1983,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 2 (40+) / Purple / Ultra Heavy
+Vinicius,Fernandes,40.0,1984,M,Brazil,Octa BJJ,,Male Gi / Master 2 (40+) / Purple / Ultra Heavy
+George,Libarian,44.0,1980,M,Canada,Cavalo Martial Arts Academy,,Male Gi / Master 2 (40+) / Purple / Ultra Heavy
+Ricardo,Marques,45.0,1980,M,Brazil,Submissions Academy Milton,Body of Four Team,Male Gi / Master 2 (40+) / Purple / Ultra Heavy
+shawn,meehan,42.0,1982,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 2 (40+) / Purple / Open Weight
+Lindsay,Austin,47.0,1978,M,Canada,Pound4Pound - Resolute Jiu-Jitsu,Body of Four Team,Male Gi / Master 2 (40+) / Purple / Open Weight
+Cameron,Levitt,48.0,1976,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 2 (40+) / Purple / Open Weight
+Carlo,Filice,47.0,1977,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 2 (40+) / Purple / Open Weight
+Alex,Jeffrey,43.0,1981,M,Canada,Zenith BJJ - Driven,Zenith,Male Gi / Master 2 (40+) / Brown/Black / Feather
+Chris,Nepomuceno,45.0,1979,M,Philippines,Jiu-Jitsu for Life Team Canada,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Brown/Black / Feather
+Vitaly,Kraversky,49.0,1976,M,Canada,Champs Academy Canada,Cicero Costha Canada,Male Gi / Master 2 (40+) / Brown/Black / Feather
+Gregg,King,43.0,1981,M,Canada,KINGJIUJITSU,TROPA DE ELITE,Male Gi / Master 2 (40+) / Brown/Black / Feather
+Thiago,Barbosa,42.0,1982,M,Brazil,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Brown/Black / Feather
+Brian,Rafat,47.0,1977,M,Canada,PSLPB CICERO COSTHA,Cicero Costha Canada,Male Gi / Master 2 (40+) / Brown/Black / Feather
+Adam,Johnson,45.0,1980,M,United States,Kubo Jiujitsu,,Male Gi / Master 2 (40+) / Brown/Black / Light
+Kyle,Sleeman,42.0,1983,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 2 (40+) / Brown/Black / Light
+Raul,Chavez,49.0,1975,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 2 (40+) / Brown/Black / Light
+Wayne,Hua,47.0,1977,M,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Brown/Black / Light
+Shyam,Tanna,49.0,1975,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 2 (40+) / Brown/Black / Light
+Shaun,Garrity,40.0,1984,M,Canada,Huron BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Brown/Black / Middle
+Eliezer,Pedroso,40.0,1984,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Brown/Black / Middle
+George,Headley,45.0,1979,M,Canada,Progression BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Brown/Black / Heavy
+Peter,Constantine,50.0,1975,M,Canada,Submissions Brazilian Jiu Jitsu Academy,,Male Gi / Master 2 (40+) / Brown/Black / Heavy
+MICHAEL,PEARSON,42.0,1982,M,Canada,Nu Wave Jiu Jitsu Academy,Nova União,Male Gi / Master 2 (40+) / Brown/Black / Heavy
+Shawn,Wilson,45.0,1979,M,Canada,Santos Brothers BJJ,Nova União,Male Gi / Master 2 (40+) / Brown/Black / Heavy
+Sean,Cumberbatch,47.0,1978,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 2 (40+) / Brown/Black / Heavy
+Kenneth,Rose,47.0,1977,M,Canada,Nu Wave Jiu Jitsu Academy,Nova União,Male Gi / Master 2 (40+) / Brown/Black / Ultra Heavy
+Garner,Lupo,41.0,1983,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Brown/Black / Ultra Heavy
+Breno,Mendes,42.0,1982,M,Brazil,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Brown/Black / Ultra Heavy
+Jason,Frias,40.0,1984,M,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Male Gi / Master 2 (40+) / Brown/Black / Ultra Heavy
+nick,castiglia,42.0,1982,M,Canada,Gracie Barra Ottawa,,Male Gi / Master 2 (40+) / Brown/Black / Ultra Heavy
+nick,castiglia,42.0,1982,M,Canada,Gracie Barra Ottawa,,Male Gi / Master 2 (40+) / Brown/Black / Open Weight
+Eliezer,Pedroso,40.0,1984,M,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 2 (40+) / Brown/Black / Open Weight
+Peter,Constantine,50.0,1975,M,Canada,Submissions Brazilian Jiu Jitsu Academy,,Male Gi / Master 2 (40+) / Brown/Black / Open Weight
+Raul,Chavez,49.0,1975,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 2 (40+) / Brown/Black / Open Weight
+Kyle,Sleeman,42.0,1983,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 2 (40+) / Brown/Black / Open Weight
+Marco,Costa,53.0,1971,M,Brazil,Wolf BJJ Toronto,,Male Gi / Master 3 (50+) / White / Middle
+Robert,Lee,53.0,1971,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 3 (50+) / White / Middle
+Jeff,Upson,50.0,1974,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 3 (50+) / White / Middle
+Eric,Thorson,66.0,1959,M,Canada,Hayabusa Academy (Kingston),OpenMat,Male Gi / Master 3 (50+) / White / Middle
+David,Harvey,57.0,1967,M,Canada,Pound4Pound - Resolute Jiu-Jitsu,Body of Four Team,Male Gi / Master 3 (50+) / White / Medium Heavy
+Tim,Sanderson,51.0,1973,M,Canada,Tanuki Martial Arts,Body of Four Team,Male Gi / Master 3 (50+) / White / Medium Heavy
+James,Grenier,54.0,1970,M,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Male Gi / Master 3 (50+) / White / Medium Heavy
+Dale,Kim,52.0,1972,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 3 (50+) / White / Medium Heavy
+Stephen,Lu,62.0,1962,M,Canada,Nu Wave Jiu Jitsu Academy,Nova União,Male Gi / Master 3 (50+) / Blue / Feather
+Gino,D'Angelo,53.0,1971,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 3 (50+) / Blue / Feather
+james,parenteau,50.0,1974,M,Canada,Therien - Gringo Bjj,Cicero Costha Canada,Male Gi / Master 3 (50+) / Blue / Light
+Robert,Cumming,51.0,1974,M,Canada,YGK - BO4 Kingston,Body of Four Team,Male Gi / Master 3 (50+) / Blue / Light
+Lawrence,Song,51.0,1973,M,Canada,York Judo BJJ,Cicero Costha Canada,Male Gi / Master 3 (50+) / Blue / Light
+Adams,Leye,55.0,1969,M,Senegal,Limitless Brazilian Jiujitsu,,Male Gi / Master 3 (50+) / Blue / Light
+Allan,Russell,51.0,1973,M,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Male Gi / Master 3 (50+) / Blue / Middle
+Oleg,Waisberg,56.0,1968,M,Canada,905 Brazilian Jiu-Jitsu,,Male Gi / Master 3 (50+) / Blue / Middle
+Lionel,Bebbington,54.0,1970,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 3 (50+) / Blue / Medium Heavy
+Alex,Tang,52.0,1973,M,Canada,Grappling Arts Academy & Fitness,,Male Gi / Master 3 (50+) / Blue / Medium Heavy
+Dan,Hood,56.0,1968,M,Canada,Kemptville Academy of Martial Arts,Renzo Gracie Ottawa,Male Gi / Master 3 (50+) / Blue / Medium Heavy
+Derek,Jongkind,51.0,1974,M,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 3 (50+) / Blue / Super Heavy
+Kevin,McCargar,52.0,1972,M,Canada,Kemptville Academy of Martial Arts,Renzo Gracie Ottawa,Male Gi / Master 3 (50+) / Blue / Ultra Heavy
+james,parenteau,50.0,1974,M,Canada,Therien - Gringo Bjj,Cicero Costha Canada,Male Gi / Master 3 (50+) / Blue / Open Weight
+Kevin,McCargar,52.0,1972,M,Canada,Kemptville Academy of Martial Arts,Renzo Gracie Ottawa,Male Gi / Master 3 (50+) / Blue / Open Weight
+Derek,Jongkind,51.0,1974,M,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 3 (50+) / Blue / Open Weight
+Lionel,Bebbington,54.0,1970,M,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Male Gi / Master 3 (50+) / Blue / Open Weight
+Alex,Tang,52.0,1973,M,Canada,Grappling Arts Academy & Fitness,,Male Gi / Master 3 (50+) / Blue / Open Weight
+David,Anderson,55.0,1969,M,Canada,STASIS,,Male Gi / Master 3 (50+) / Purple / Light
+Konstantin,Darovin,53.0,1971,M,Canada,Warrior Mixed Martial Arts - Newmarket,,Male Gi / Master 3 (50+) / Purple / Light
+Paul,Ganley,55.0,1969,M,Canada,York Judo BJJ,Cicero Costha Canada,Male Gi / Master 3 (50+) / Purple / Light
+Adam,Rickman,54.0,1970,M,Canada,Toronto Top Team,Cicero Costha Canada,Male Gi / Master 3 (50+) / Purple / Light
+Husam,Kharouba,52.0,1972,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 3 (50+) / Purple / Middle
+Shawn,Cox,51.0,1974,M,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Male Gi / Master 3 (50+) / Purple / Middle
+Cliff,Poulton,55.0,1969,M,Canada,Detroit Jiu-Jitsu Syndicate,Detroit Jiu-Jitsu,Male Gi / Master 3 (50+) / Purple / Middle
+Douglas,Ptolemy,52.0,1972,M,Canada,Revelation Martial Arts and Fitness,Renzo Gracie Ottawa,Male Gi / Master 3 (50+) / Brown/Black / Light Feather
+Michael,Aviado,52.0,1972,M,Canada,Vaughan Jiu-Jitsu Academy,Body of Four Team,Male Gi / Master 3 (50+) / Brown/Black / Light Feather
+Francis,Sun,54.0,1971,M,Canada,Newmarket BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 3 (50+) / Brown/Black / Feather
+Zoltan,Ekk,52.0,1972,M,Canada,Submissions Academy Milton,Body of Four Team,Male Gi / Master 3 (50+) / Brown/Black / Feather
+Chris,Kim,56.0,1969,M,Canada,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Male Gi / Master 3 (50+) / Brown/Black / Feather
+Tad,Black,54.0,1970,M,Canada,Kemptville Academy of Martial Arts,Renzo Gracie Ottawa,Male Gi / Master 3 (50+) / Brown/Black / Middle
+adrian,smithson,50.0,1974,M,England,GUVNA BJJ,Cicero Costha Canada,Male Gi / Master 3 (50+) / Brown/Black / Middle
+Mark,Taliano,64.0,1960,M,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Male Gi / Master 3 (50+) / Brown/Black / Middle
+Mathew,Hamilton,50.0,1974,M,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Male Gi / Master 3 (50+) / Brown/Black / Middle
+Patrick,Brophy,53.0,1971,M,Canada,York Judo &  BJJ,Cicero Costha Canada,Male Gi / Master 3 (50+) / Brown/Black / Middle
+Robert,Kochut,52.0,1973,M,Canada,TROOP BJJ,Cicero Costha Canada,Male Gi / Master 3 (50+) / Brown/Black / Medium Heavy
+Mark,Boreland,54.0,1970,M,Canada,brazilian top team (canada),,Male Gi / Master 3 (50+) / Brown/Black / Medium Heavy
+Greg,Carrasco,53.0,1971,M,Canada,Octa BJJ,,Male Gi / Master 3 (50+) / Brown/Black / Medium Heavy
+Miguel,Santos,54.0,1970,M,Canada,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Male Gi / Master 3 (50+) / Brown/Black / Medium Heavy
+Jeremy,Berriault,51.0,1973,M,Canada,Gracie Humaita Woodbridge,,Male Gi / Master 3 (50+) / Brown/Black / Super Heavy
+Simon,Hepworth,50.0,1974,M,Canada,Action & Reaction MMA,Cicero Costha Canada,Male Gi / Master 3 (50+) / Brown/Black / Super Heavy
+David,Beckles,52.0,1973,M,Canada,Dynamite BJJ (Cicero Costha),Cicero Costha Canada,Male Gi / Master 3 (50+) / Brown/Black / Super Heavy
+David,Beckles,52.0,1973,M,Canada,Dynamite BJJ (Cicero Costha),Cicero Costha Canada,Male Gi / Master 3 (50+) / Brown/Black / Open Weight
+Greg,Carrasco,53.0,1971,M,Canada,Octa BJJ,,Male Gi / Master 3 (50+) / Brown/Black / Open Weight
+Tanisa,Rahman,30.0,1995,F,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Female Gi / Adult / White / Rooster
+Marie,Varela,35.0,1989,F,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Female Gi / Adult / White / Rooster
+Judith,Dyck,18.0,2006,F,Canada,Crossroads Martial Fitness Academy,,Female Gi / Adult / White / Light Feather
+Jasmine,Leung,29.0,1995,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / White / Light Feather
+Huinie,Pan,30.0,1994,F,China,De La Costa Academy Ottawa,Academia de la Costa,Female Gi / Adult / White / Feather
+Sara,McKinlay,24.0,2000,F,Canada,Rumble Martial Arts,,Female Gi / Adult / White / Feather
+Lisa,Young,28.0,1997,F,United States,Oshawa BJJ and Fitness,Jiu-Jitsu For Life Team,Female Gi / Adult / White / Feather
+Katya,Shestayeva,20.0,2004,F,Canada,Vaughan Jiu-Jitsu Academy,Body of Four Team,Female Gi / Adult / White / Feather
+Grace,Ayres,18.0,2006,F,Canada,Limitless Brazilian Jiujitsu,,Female Gi / Adult / White / Light
+Chang,Ge,24.0,2000,F,China,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / White / Light
+Ying,Chen,26.0,1998,F,China,NEO Brazilian Jiu Jitsu,Cicero Costha Canada,Female Gi / Adult / White / Light
+Natasha,Nepomuceno,30.0,1994,F,Canada,The Flock MMA Academy,Carlson Gracie Team,Female Gi / Adult / White / Light
+Rowan,Acromond,24.0,2000,F,Canada,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Female Gi / Adult / White / Light
+Myranda,MacPherson,19.0,2006,F,Canada,Silver 7 Martial Arts/Marcelo Garcia Jiu-Jitsu Association (Ottawa),Alliance Marcelo Garcia International,Female Gi / Adult / White / Light
+Ligaya,Stinellis,25.0,2000,F,Canada,Pura BJJ,,Female Gi / Adult / White / Light
+Riyana,Karim Hajiani,24.0,2001,F,Canada,Oshawa BJJ and Fitness,Jiu-Jitsu For Life Team,Female Gi / Adult / White / Middle
+Sydney,Flood,29.0,1996,F,Canada,Lopes BJJ,,Female Gi / Adult / White / Middle
+Paige,Newman,24.0,2000,F,Canada,Progression BJJ,Jiu-Jitsu For Life Team,Female Gi / Adult / White / Middle
+Hien,Ngo,32.0,1993,F,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Female Gi / Adult / White / Middle
+Marilou,Hews,19.0,2005,F,Canada,Sherbatov Gyms,,Female Gi / Adult / White / Middle
+Mikaila,Straatsma,30.0,1994,F,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Female Gi / Adult / White / Middle
+Isabella,Filippazzo,22.0,2002,F,Canada,Bazooka Kickboxing and MMA,,Female Gi / Adult / White / Middle
+Laura,Campbell,24.0,2000,F,Canada,Gracie Barra North York Toronto,Gracie Barra,Female Gi / Adult / White / Medium Heavy
+Rania,Chalabi,22.0,2003,F,France,CARLSON GRACIE MONTREAL,,Female Gi / Adult / White / Medium Heavy
+Simran,Kang,26.0,1999,F,Canada,STASIS,,Female Gi / Adult / White / Heavy
+Maddie,Ban,19.0,2005,F,Canada,Newmarket BJJ,Jiu-Jitsu For Life Team,Female Gi / Adult / White / Heavy
+Monica,Obregon,29.0,1995,F,Nicaragua,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / White / Super Heavy
+Nicole,Taylor,28.0,1996,F,Canada,Cambridge BJJ,Jiu-Jitsu For Life Team,Female Gi / Adult / White / Super Heavy
+Amirah,Anderson-Richards,26.0,1998,F,Canada,Dynamite BJJ (Cicero Costha),Cicero Costha Canada,Female Gi / Adult / White / Super Heavy
+Victoria,Blaauw,24.0,2000,F,Canada,Wildlings Martial Arts,Body of Four Team,Female Gi / Adult / White / Super Heavy
+Maria,Fakhouri,26.0,1998,F,Canada,De La Costa Academy Ottawa,Academia de la Costa,Female Gi / Adult / Blue / Light Feather
+Miriam,Ciss,29.0,1996,F,Canada,House of Combat,TROPA DE ELITE,Female Gi / Adult / Blue / Light Feather
+Betty,Huang,27.0,1997,F,Canada,-No academy,,Female Gi / Adult / Blue / Light Feather
+Lauren,Engelhardt,35.0,1990,F,Canada,The Submission Academy,Renzo Gracie Ottawa,Female Gi / Adult / Blue / Feather
+Danika,Katona,26.0,1999,F,Canada,Guardhouse Brazilian Jiu-Jitsu,Cicero Costha Canada,Female Gi / Adult / Blue / Feather
+Alexis,Da silva cabral,24.0,2000,F,Canada,Taylor Jiu-jitsu,,Female Gi / Adult / Blue / Feather
+Gabby,Aumont,18.0,2006,F,Canada,Grounded Studios,,Female Gi / Adult / Blue / Feather
+Amanda,Santos,25.0,1999,F,Brazil,Gracie Barra North York Toronto,Gracie Barra,Female Gi / Adult / Blue / Light
+Lara,Al-Jamal,32.0,1992,F,Canada,MN BJJ Academy,R1ngBJJ,Female Gi / Adult / Blue / Light
+Kyla,Welcher,18.0,2006,F,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Female Gi / Adult / Blue / Light
+Aubrey,Formica,29.0,1995,F,Canada,Cambridge BJJ,Jiu-Jitsu For Life Team,Female Gi / Adult / Blue / Light
+Hirah,Rara,28.0,1996,F,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Female Gi / Adult / Blue / Light
+Leah,Wills,38.0,1986,F,Canada,Tanuki Martial Arts,Body of Four Team,Female Gi / Adult / Blue / Middle
+Julie,C,31.0,1994,F,Canada,De La Costa Academy Ottawa,Academia de la Costa,Female Gi / Adult / Blue / Middle
+Kim,Villemure,35.0,1990,F,Canada,Sherbatov Gyms,,Female Gi / Adult / Blue / Middle
+Jessica,Lee,27.0,1997,F,Canada,Octa BJJ,GFTeam,Female Gi / Adult / Blue / Middle
+Holly,Parker,29.0,1995,F,Canada,STASIS,,Female Gi / Adult / Blue / Medium Heavy
+Rebecca,Dyck,20.0,2004,F,Canada,Bowen Brasa JiuJitsu,Brasa,Female Gi / Adult / Blue / Medium Heavy
+Laura,Nuttall,25.0,1999,F,Canada,Team Renzo Gracie Ottawa,,Female Gi / Adult / Blue / Medium Heavy
+Anna Mika,Sauvé,27.0,1997,F,Canada,Team Renzo Gracie Ottawa,,Female Gi / Adult / Blue / Medium Heavy
+Catherine,Boutin-St-Amant,33.0,1992,F,Canada,De La Costa Academy Ottawa,Academia de la Costa,Female Gi / Adult / Blue / Medium Heavy
+Andy,Palmer,33.0,1991,F,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Female Gi / Adult / Blue / Medium Heavy
+Alysia,Slater,36.0,1988,F,Canada,Oshawa BJJ and Fitness,Jiu-Jitsu For Life Team,Female Gi / Adult / Blue / Medium Heavy
+alejandra,deschamps,30.0,1994,F,Mexico,Toronto Jiu-Jitsu Club,Jiu-Jitsu For Life Team,Female Gi / Adult / Blue / Medium Heavy
+Ekaterina,Lachilova,24.0,2000,F,Russia,Freestyle Dojo,,Female Gi / Adult / Blue / Heavy
+arielle,lopes,36.0,1989,F,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Female Gi / Adult / Blue / Heavy
+andrea,campeau,23.0,2001,F,Canada,Therien - Gringo Bjj,Cicero Costha Canada,Female Gi / Adult / Blue / Super Heavy
+Sara,Wiedro,30.0,1994,F,Canada,Cavalo Martial Arts Academy,,Female Gi / Adult / Blue / Super Heavy
+Melissa,Scott,27.0,1998,F,Canada,Fifth-Gen Jiu Jitsu Team,Cicero Costha Canada,Female Gi / Adult / Blue / Super Heavy
+Melissa,Baiocchi,26.0,1998,F,Canada,Hayabusa Academy (Kingston),OpenMat,Female Gi / Adult / Blue / Super Heavy
+Hunter,Lalonde,25.0,2000,F,Canada,Team Renzo Gracie Ottawa,,Female Gi / Adult / Blue / Super Heavy
+Jaspreet,Basi,22.0,2003,F,United Kingdom,Team Renzo Gracie Ottawa,,Female Gi / Adult / Blue / Super Heavy
+Unknown user,,,,,Canada,"Battle Arts Academy, Mississauga",Cicero Costha Canada,Female Gi / Adult / Blue / Super Heavy
+Rebecca,Dyck,20.0,2004,F,Canada,Bowen Brasa JiuJitsu,Brasa,Female Gi / Adult / Blue / Open Weight
+andrea,campeau,23.0,2001,F,Canada,Therien - Gringo Bjj,Cicero Costha Canada,Female Gi / Adult / Blue / Open Weight
+Amanda,Santos,25.0,1999,F,Brazil,Gracie Barra North York Toronto,Gracie Barra,Female Gi / Adult / Blue / Open Weight
+Danika,Katona,26.0,1999,F,Canada,Guardhouse Brazilian Jiu-Jitsu,Cicero Costha Canada,Female Gi / Adult / Blue / Open Weight
+Jessica,Lee,27.0,1997,F,Canada,Octa BJJ,GFTeam,Female Gi / Adult / Blue / Open Weight
+arielle,lopes,36.0,1989,F,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Female Gi / Adult / Blue / Open Weight
+Kyla,Welcher,18.0,2006,F,Canada,Yorkdale Martial Arts Academy,Body of Four Team,Female Gi / Adult / Blue / Open Weight
+Hunter,Lalonde,25.0,2000,F,Canada,Team Renzo Gracie Ottawa,,Female Gi / Adult / Blue / Open Weight
+Leah,Wills,38.0,1986,F,Canada,Tanuki Martial Arts,Body of Four Team,Female Gi / Adult / Blue / Open Weight
+Laura,Nuttall,25.0,1999,F,Canada,Team Renzo Gracie Ottawa,,Female Gi / Adult / Blue / Open Weight
+Ekaterina,Lachilova,24.0,2000,F,Russia,Freestyle Dojo,,Female Gi / Adult / Blue / Open Weight
+Gabby,Aumont,18.0,2006,F,Canada,Grounded Studios,,Female Gi / Adult / Blue / Open Weight
+Isabella,Fortes,26.0,1999,F,Brazil,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Purple / Feather
+Desiree,Lussier-Levesque,43.0,1982,F,United States,Mizu Studio,,Female Gi / Adult / Purple / Feather
+mateja,vukojevic,21.0,2004,F,Canada,5th Dimension Training Academy,Zenith,Female Gi / Adult / Purple / Feather
+Monika,Macki,28.0,1996,F,Canada,York Judo BJJ,Cicero Costha Canada,Female Gi / Adult / Purple / Feather
+kesia,lozada,23.0,2001,F,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Female Gi / Adult / Purple / Light
+Suriya,Desai,21.0,2003,F,Canada,Submissions Academy Milton,Body of Four Team,Female Gi / Adult / Purple / Light
+Hanna,Hepworth,19.0,2006,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Purple / Light
+Samantha,Hattlestad,33.0,1991,F,Canada,Gracie Barra Ott,Gracie Barra,Female Gi / Adult / Purple / Light
+Julianna,Wong,18.0,2006,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Purple / Middle
+Grace,Laemmler,30.0,1994,F,Canada,Renzo Gracie Toronto Oama,Renzo Gracie Ottawa,Female Gi / Adult / Purple / Middle
+isabella,griffin,25.0,2000,F,Canada,Team Renzo Gracie Ottawa,,Female Gi / Adult / Purple / Middle
+kesia,lozada,23.0,2001,F,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Female Gi / Adult / Purple / Open Weight
+Julianna,Wong,18.0,2006,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Purple / Open Weight
+Samantha,Hattlestad,33.0,1991,F,Canada,Gracie Barra Ott,Gracie Barra,Female Gi / Adult / Purple / Open Weight
+mateja,vukojevic,21.0,2004,F,Canada,5th Dimension Training Academy,Zenith,Female Gi / Adult / Purple / Open Weight
+Desiree,Lussier-Levesque,43.0,1982,F,United States,Mizu Studio,,Female Gi / Adult / Purple / Open Weight
+Grace,Laemmler,30.0,1994,F,Canada,Renzo Gracie Toronto Oama,Renzo Gracie Ottawa,Female Gi / Adult / Purple / Open Weight
+Isabella,Fortes,26.0,1999,F,Brazil,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Purple / Open Weight
+Darian,Primeau,29.0,1995,F,Canada,Ape Jiu Jitsu,Cicero Costha Canada,Female Gi / Adult / Brown/Black / Feather
+Annie,Le,27.0,1997,F,Canada,Junction Academy,Body of Four Team,Female Gi / Adult / Brown/Black / Feather
+belinda,wong,37.0,1987,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Brown/Black / Feather
+Raechel,Bandurchin,38.0,1986,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Brown/Black / Light
+claude,roy,29.0,1995,F,Canada,MILE END JIU JITSU CLUB,,Female Gi / Adult / Brown/Black / Light
+Felicia,Marceau,30.0,1994,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Brown/Black / Light
+Bruna,Maciel,33.0,1992,F,Brazil,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Brown/Black / Middle
+Ana,Brandao,27.0,1998,F,Brazil,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Brown/Black / Medium Heavy
+Katrina,Mattern,27.0,1997,F,Canada,Straight Blast Gym Edmonton,SBG - Straight Blast Gym,Female Gi / Adult / Brown/Black / Medium Heavy
+Alison,Tremblay,34.0,1990,F,Canada,BTT Canada AlphaMMA,Brazilian Top Team,Female Gi / Adult / Brown/Black / Super Heavy
+Siobhan,Barnes,26.0,1998,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Brown/Black / Super Heavy
+Alison,Tremblay,34.0,1990,F,Canada,BTT Canada AlphaMMA,Brazilian Top Team,Female Gi / Adult / Brown/Black / Open Weight
+Katrina,Mattern,27.0,1997,F,Canada,Straight Blast Gym Edmonton,SBG - Straight Blast Gym,Female Gi / Adult / Brown/Black / Open Weight
+Siobhan,Barnes,26.0,1998,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Brown/Black / Open Weight
+Felicia,Marceau,30.0,1994,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Brown/Black / Open Weight
+Ana,Brandao,27.0,1998,F,Brazil,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Adult / Brown/Black / Open Weight
+claude,roy,29.0,1995,F,Canada,MILE END JIU JITSU CLUB,,Female Gi / Adult / Brown/Black / Open Weight
+Nareerat,Areesawasdi,35.0,1989,F,Thailand,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Master 1 (30+) / White / Light Feather
+YI,TONG,35.0,1990,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Master 1 (30+) / White / Light Feather
+Wilsa,Law,37.0,1987,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Master 1 (30+) / White / Light Feather
+Kimberly,Biback,38.0,1986,F,Canada,Vaughan Jiu-Jitsu Academy,Body of Four Team,Female Gi / Master 1 (30+) / White / Light Feather
+Nicole,Romero,33.0,1991,F,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Light Feather
+Wendy,Rivera,37.0,1988,F,Canada,Progression BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Light Feather
+Charlotte,Carizon,30.0,1994,F,Philippines,Ethereal BJJ Academy,Cicero Costha Canada,Female Gi / Master 1 (30+) / White / Feather
+Candice,Axford,34.0,1990,F,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Female Gi / Master 1 (30+) / White / Feather
+kristyn,Zegers,31.0,1993,F,Canada,BRAZILIAN TOP TEAM,Brazilian Top Team,Female Gi / Master 1 (30+) / White / Feather
+Gayaneh,Panosian,36.0,1988,F,Armenia,De La Costa Academy Ottawa,Academia de la Costa,Female Gi / Master 1 (30+) / White / Feather
+Christine,Brennan,31.0,1993,F,Canada,Hayabusa Academy (Kingston),OpenMat,Female Gi / Master 1 (30+) / White / Feather
+Vicky,Edwards,36.0,1989,F,Canada,Cambridge BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Feather
+ADRIENNE,WENZLER,42.0,1982,F,Canada,Joslin’s MMA,Northern Vanguard BJJ Association,Female Gi / Master 1 (30+) / White / Feather
+Victoria,Yang,33.0,1991,F,Canada,Unaffiliated/No Team,,Female Gi / Master 1 (30+) / White / Feather
+Samantha,Mac Neill,31.0,1993,F,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Feather
+Hazariah,Siti,36.0,1988,F,Singapore,Wolf BJJ Toronto,,Female Gi / Master 1 (30+) / White / Light
+Griselda,Magdaleno,40.0,1985,F,Mexico,Ethereal BJJ Academy,Cicero Costha Canada,Female Gi / Master 1 (30+) / White / Light
+Sarah,de Sousa,38.0,1986,F,Canada,GUVNA BJJ,,Female Gi / Master 1 (30+) / White / Light
+Melody,Nash,35.0,1989,F,Canada,Limitless Brazilian Jiujitsu,,Female Gi / Master 1 (30+) / White / Middle
+Lisa,Belfrutto,38.0,1986,F,Canada,Cavalo Martial Arts Academy,,Female Gi / Master 1 (30+) / White / Middle
+Sarah,Stead,33.0,1991,F,Canada,Cambridge BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Middle
+Emma,Katchanoski,30.0,1994,F,Canada,Academia Brazilian JiuJitsu,Subconscious BJJ ,Female Gi / Master 1 (30+) / White / Middle
+Melissa,Corby,40.0,1984,F,Canada,Kemptville Academy of Martial Arts,Renzo Gracie Ottawa,Female Gi / Master 1 (30+) / White / Medium Heavy
+Danielle,Watson,33.0,1991,F,Canada,Limitless Brazilian Jiujitsu,,Female Gi / Master 1 (30+) / White / Medium Heavy
+Liza,McCabe,41.0,1983,F,Canada,Oshawa BJJ and Fitness,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Medium Heavy
+mylene,Nadler,32.0,1992,F,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Female Gi / Master 1 (30+) / White / Medium Heavy
+Suena,Valenzuela,42.0,1982,F,Canada,Tanuki Martial Arts,Body of Four Team,Female Gi / Master 1 (30+) / White / Medium Heavy
+Tracey,Barrientos,36.0,1988,F,Canada,Brampton Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Medium Heavy
+Tabitha,Lynn,39.0,1985,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Master 1 (30+) / White / Heavy
+Shailie,Dubois,36.0,1988,F,Canada,STASIS,,Female Gi / Master 1 (30+) / White / Heavy
+Mariana,Morales,30.0,1994,F,Colombia,Gracie Barra North York Toronto,Gracie Barra,Female Gi / Master 1 (30+) / White / Heavy
+Lauryn,Banc,31.0,1994,F,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Heavy
+Zsofi,Balazs,34.0,1990,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Master 1 (30+) / White / Super Heavy
+Kathleen,Goncalves,36.0,1989,F,Canada,New Union BJJ,Nova União,Female Gi / Master 1 (30+) / White / Super Heavy
+Ashley,Hedley,31.0,1994,F,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Female Gi / Master 1 (30+) / White / Super Heavy
+Danika,Tait,30.0,1994,F,Canada,Huron BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Super Heavy
+Brianna,Russell,30.0,1994,F,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Female Gi / Master 1 (30+) / White / Super Heavy
+Katherine,Kennedy,34.0,1990,F,Canada,Team Renzo Gracie Ottawa,,Female Gi / Master 1 (30+) / White / Super Heavy
+Keshia,McCracken,39.0,1985,F,Canada,Oshawa BJJ and Fitness,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Super Heavy
+Elyse,Johnston-Haynes,32.0,1993,F,Canada,Stratford BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / White / Super Heavy
+Avigayil,Basser,32.0,1993,F,Israel,House of Combat,TROPA DE ELITE,Female Gi / Master 1 (30+) / Blue / Light Feather
+Thamires,Nunes,31.0,1993,F,Brazil,JT6 BJJ Academy,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / Blue / Light Feather
+Yuki,Hanaoka,39.0,1985,F,Canada,Vaughan Jiu-Jitsu Academy,Body of Four Team,Female Gi / Master 1 (30+) / Blue / Light Feather
+Melissa,Brunet,35.0,1990,F,Canada,Hawkesbury Martial Arts,,Female Gi / Master 1 (30+) / Blue / Light Feather
+Ashleigh,Hook,43.0,1981,F,Australia,Cavalo Martial Arts Academy,,Female Gi / Master 1 (30+) / Blue / Super Heavy
+Irina,Petrovic,32.0,1993,F,Canada,Octa BJJ,GFTeam,Female Gi / Master 1 (30+) / Blue / Super Heavy
+Veronica,Doughan,44.0,1980,F,Canada,Oshawa BJJ and Fitness,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / Blue / Super Heavy
+Kristiana,Schuhmann,38.0,1986,F,Canada,Jiu-Jitsu for Life Team Canada,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / Blue / Super Heavy
+Yiyi,CAI,36.0,1989,F,China,Yorkdale Martial Arts Academy,Body of Four Team,Female Gi / Master 1 (30+) / Blue / Super Heavy
+Veronica,Doughan,44.0,1980,F,Canada,Oshawa BJJ and Fitness,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / Blue / Open Weight
+Kristiana,Schuhmann,38.0,1986,F,Canada,Jiu-Jitsu for Life Team Canada,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / Blue / Open Weight
+Irina,Petrovic,32.0,1993,F,Canada,Octa BJJ,GFTeam,Female Gi / Master 1 (30+) / Blue / Open Weight
+Yiyi,CAI,36.0,1989,F,China,Yorkdale Martial Arts Academy,Body of Four Team,Female Gi / Master 1 (30+) / Blue / Open Weight
+Eve,Switzer,40.0,1984,F,Canada,Toronto BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / Purple / Feather
+Fiona,McQuade-Crangle,32.0,1992,F,Canada,Sudbury MMA,,Female Gi / Master 1 (30+) / Purple / Feather
+Diana,Hammond,42.0,1982,F,Canada,Submissions Academy Milton,Body of Four Team,Female Gi / Master 1 (30+) / Purple / Middle
+Gloria,Kim,34.0,1991,F,Canada,Enhanced BJJ,Northern Vanguard BJJ Association,Female Gi / Master 1 (30+) / Purple / Middle
+Vanessa,Guariniello,36.0,1988,F,Brazil,Toronto BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / Purple / Middle
+Grace,Chung,38.0,1986,F,Canada,NKS Brazilian Jiu Jitsu,Cicero Costha Canada,Female Gi / Master 1 (30+) / Purple / Super Heavy
+Priscilla,Friesen,36.0,1989,F,Canada,Grounded Studios,,Female Gi / Master 1 (30+) / Purple / Super Heavy
+Natasha,Clara,38.0,1987,F,Canada,Hayabusa Academy (Kingston),OpenMat,Female Gi / Master 1 (30+) / Purple / Super Heavy
+Linden,Clark,40.0,1985,F,Canada,Pura BJJ,,Female Gi / Master 1 (30+) / Brown/Black / Light
+Angela,Shields,31.0,1993,F,Canada,Progression BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 1 (30+) / Brown/Black / Light
+Sarah,Ajwani,42.0,1982,F,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Female Gi / Master 2 (40+) / White / Light
+April,Hamm,40.0,1984,F,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Female Gi / Master 2 (40+) / White / Light
+CJ,Mesenchuk,40.0,1984,F,Canada,Oshawa BJJ and Fitness,Jiu-Jitsu For Life Team,Female Gi / Master 2 (40+) / White / Light
+Jennie,Gomes,46.0,1978,F,Canada,Pound4Pound - Resolute Jiu-Jitsu,Body of Four Team,Female Gi / Master 2 (40+) / White / Light
+Amanda,Boetzkes,48.0,1976,F,Canada,Ethereal BJJ Academy,Cicero Costha Canada,Female Gi / Master 2 (40+) / White / Light
+Seira,Pinto,43.0,1981,F,Brazil,Yorkdale Martial Arts Academy,Body of Four Team,Female Gi / Master 2 (40+) / White / Light
+Sarah,Feiner,44.0,1980,F,Canada,Cavalo Martial Arts Academy,,Female Gi / Master 2 (40+) / White / Light
+Bianca,D’Souza,52.0,1972,F,Canada,GUVNA BJJ,Cicero Costha Canada,Female Gi / Master 2 (40+) / White / Middle
+Kelly,Milenkoff,46.0,1978,F,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Female Gi / Master 2 (40+) / White / Middle
+Laura,Knudsen,42.0,1982,F,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Female Gi / Master 2 (40+) / White / Middle
+Katherine,Reynolds,40.0,1984,F,Canada,BTT Canada AlphaMMA,Brazilian Top Team,Female Gi / Master 2 (40+) / White / Middle
+Elaine,Huisjes,42.0,1982,F,Canada,Sudbury MMA,,Female Gi / Master 2 (40+) / White / Heavy
+Amber,Swidersky,48.0,1976,F,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Female Gi / Master 2 (40+) / White / Heavy
+Vanessa,Lawson-Dulny,47.0,1977,F,Canada,Team DNA,Jiu-Jitsu For Life Team,Female Gi / Master 2 (40+) / Blue / Feather
+Marcia,McWhinnie,64.0,1961,F,Canada,Sudbury MMA,,Female Gi / Master 2 (40+) / Blue / Feather
+Azi,Farizeh,47.0,1978,F,Canada,KINGJIUJITSU,TROPA DE ELITE,Female Gi / Master 2 (40+) / Blue / Feather
+Heather,Clark,42.0,1982,F,Canada,Stratford BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 2 (40+) / Blue / Feather
+Anna,Palaganas,42.0,1983,F,Canada,Toronto Top Team,Cicero Costha Canada,Female Gi / Master 2 (40+) / Blue / Feather
+Pamela,Stewart,44.0,1980,F,Canada,Kemptville Academy of Martial Arts,Renzo Gracie Ottawa,Female Gi / Master 2 (40+) / Blue / Feather
+Rebekah,Langman,44.0,1980,F,Canada,Limitless Brazilian Jiujitsu,,Female Gi / Master 2 (40+) / Blue / Light
+camila,Pessoa,41.0,1983,F,Brazil,Newmarket BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 2 (40+) / Blue / Light
+Angela,Oosterom,48.0,1976,F,Canada,Stratford BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 2 (40+) / Blue / Light
+Julia,Chacon-Ramos,45.0,1979,F,El Salvador,Toronto Top Team,Cicero Costha Canada,Female Gi / Master 2 (40+) / Purple / Medium Heavy
+Gabriela,Velazquez,60.0,1964,F,Argentina,Toronto BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 2 (40+) / Purple / Medium Heavy
+Julia,Chacon-Ramos,45.0,1979,F,El Salvador,Toronto Top Team,Cicero Costha Canada,Female Gi / Master 2 (40+) / Purple / Open Weight
+Jean,Chin,49.0,1976,F,Canada,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Master 2 (40+) / Brown/Black / Feather
+Rhea,Desai,50.0,1974,F,Canada,Submissions Academy Milton,Body of Four Team,Female Gi / Master 2 (40+) / Brown/Black / Feather
+claudia,Smithson,45.0,1979,F,Canada,GUVNA BJJ,Cicero Costha Canada,Female Gi / Master 2 (40+) / Brown/Black / Light
+jessica,mullins,48.0,1976,F,Canada,Orangeville Brazilian Jiu-Jitsu Academy,Jiu-Jitsu For Life Team,Female Gi / Master 2 (40+) / Brown/Black / Light
+Jennifer,Durasin,50.0,1974,F,Canada,Progression BJJ,Jiu-Jitsu For Life Team,Female Gi / Master 2 (40+) / Brown/Black / Light
+Samira,Sammoun,42.0,1982,F,Canada,Black Line Jiu Jitsu,,Female Gi / Master 2 (40+) / Brown/Black / Light
+Amanda,Cullen,45.0,1979,F,Canada,Niagara BJJ ( Cicero Costha),Cicero Costha Canada,Female Gi / Master 2 (40+) / Brown/Black / Light
+Katie,Belkalem,42.0,1982,F,Canada,Gracie Barra London Canada,Gracie Barra,Female Gi / Master 2 (40+) / Brown/Black / Light
+Alejandra,Ordaz,42.0,1982,F,Mexico,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Master 2 (40+) / Brown/Black / Medium Heavy
+Patricia,VanderMeer,40.0,1984,F,Canada,5th Dimension Training Academy,Zenith,Female Gi / Master 2 (40+) / Brown/Black / Super Heavy
+Patricia,VanderMeer,40.0,1984,F,Canada,5th Dimension Training Academy,Zenith,Female Gi / Master 2 (40+) / Brown/Black / Open Weight
+Alejandra,Ordaz,42.0,1982,F,Mexico,Action & Reaction MMA,Cicero Costha Canada,Female Gi / Master 2 (40+) / Brown/Black / Open Weight
+Rhea,Desai,50.0,1974,F,Canada,Submissions Academy Milton,Body of Four Team,Female Gi / Master 2 (40+) / Brown/Black / Open Weight
